@@ -1,0 +1,29 @@
+<'hippo'='http://www.onehippo.org/jcr/hippo/nt/2.0.4'>
+<'hippocms'='http://www.onehippo.org/hippocms/nt/1.0'>
+<'hippostd'='http://www.onehippo.org/jcr/hippostd/nt/2.0'>
+<'hippostdpubwf'='http://www.onehippo.org/jcr/hippostdpubwf/nt/1.0'>
+
+[hippocms:basedocument] > hippo:document, hippostd:publishableSummary, hippostdpubwf:document
+  orderable
+
+[hippocms:biodocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+
+[hippocms:footerDocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+
+[hippocms:footerdocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+
+[hippocms:herodocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+
+[hippocms:newsdocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+
+[hippocms:targetedhelpdocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+
+[hippocms:textdocument] > hippocms:basedocument, hippostd:relaxed
+  orderable
+

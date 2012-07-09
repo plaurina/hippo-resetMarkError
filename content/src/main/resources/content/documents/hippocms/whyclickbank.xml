@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="whyclickbank">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippo:harddocument</sv:value>
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>hippo:translated</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>bd316a6c-9613-431d-89d5-677954c18959</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>0838f2e5-b673-4920-8690-71e76b1866e5</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="hippotranslation:translations">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippotranslation:translations</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="hippo:translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:translation</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:language" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hippo:message" sv:type="String">
+      <sv:value>WhyClickBank</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="sell">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+      <sv:value>hippotranslation:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>26c640a3-2166-4397-bada-4ec8f57be28c</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>1d76012a-949a-4f41-8496-608444aef7c9</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="connectmillions">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:hardhandle</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>62d82011-dd1d-4fc3-a570-c03ff628ef27</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>ConnectMillions</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="connectmillions">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippocms:textdocument</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:harddocument</sv:value>
+          <sv:value>hippotranslation:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a9cea3cb-deeb-4a29-9a92-366fb95fcf3b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>whyclickbank/sell/connectmillions</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippocms:summary" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:tag" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:title" sv:type="String">
+          <sv:value>Connect millions of online ClickBank customers with your digital products</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:holder" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2012-07-09T13:11:38.134-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:17:08.998-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:17:12.636-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>ed43ca3c-1bc4-4444-abe5-b4b20e4e8291</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippotranslation:translations">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippotranslation:translations</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippocms:body">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;table style="font-family: Verdana; width: 440px; line-height: normal; " cellpadding="0" class="content_table"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Reach customers around the globe&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+More than 100,000 active affiliates in 145 countries&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Sell your product in English, Spanish, French, and German&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="massiveaffiliatenetwork">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:hardhandle</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>9ec498e9-3914-40d5-b73a-342d165070be</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>MassiveAffiliateNetwork</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="massiveaffiliatenetwork">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippocms:textdocument</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:harddocument</sv:value>
+          <sv:value>hippotranslation:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>b1a8b695-0ac3-4baa-abdb-e68177ec8dbc</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>whyclickbank/sell/massiveaffiliatenetwork</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippocms:summary" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:tag" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:title" sv:type="String">
+          <sv:value>Massive Affiliate Network</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:holder" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2012-07-09T13:12:42.988-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:21:06.178-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:22:13.910-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>49f64934-92ba-4600-9e2f-7c7b89213e59</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippotranslation:translations">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippotranslation:translations</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippocms:body">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;table style="font-family: Verdana; width: 440px; line-height: normal; " cellpadding="0" class="content_table"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+More than 100,000 active affiliates&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Global affiliate reach&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Experience in promoting niche products&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="reliablereporting">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:hardhandle</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>333ec180-47c7-4c8c-ab21-6d967b7e90a9</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>ReliableReporting</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="reliablereporting">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippocms:textdocument</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:harddocument</sv:value>
+          <sv:value>hippotranslation:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>e3e32179-7f06-423d-a5d9-8dffc432b56e</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>whyclickbank/sell/reliablereporting</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippocms:summary" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:tag" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:title" sv:type="String">
+          <sv:value>Reliable Reporting &amp; Payouts</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:holder" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2012-07-09T13:14:08.465-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:21:26.822-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:22:14.094-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>f2924655-a06d-4e47-be17-f5d72677dc25</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippotranslation:translations">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippotranslation:translations</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippocms:body">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;table style="font-family: Verdana; width: 440px; line-height: normal; " cellpadding="0" class="content_table"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Detailed sales reporting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Weekly payments and direct deposit available&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Get paid on time, every time — ClickBank has never missed a payment in 10 years
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="automatedpayments">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:hardhandle</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c6a98368-d0eb-4a00-b0bd-789b46efa1e6</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>AutomatedPayments</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="automatedpayments">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippocms:textdocument</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:harddocument</sv:value>
+          <sv:value>hippotranslation:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>e6043ca4-3809-4b33-bd7e-b328a71b8923</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>whyclickbank/sell/automatedpayments</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippocms:summary" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:tag" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:title" sv:type="String">
+          <sv:value>Automated Payments to Affiliates</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:holder" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2012-07-09T13:14:48.785-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:21:44.197-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:22:13.768-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9518b895-074f-440a-8c56-2bd48a7a76b4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippotranslation:translations">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippotranslation:translations</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippocms:body">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;table style="font-family: Verdana; width: 440px; line-height: normal; " cellpadding="0" class="content_table"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Accurate affiliate commission tracking&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+ClickBank handles affiliate payment distribution&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+No hands-on management of affiliates required&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="globalreach">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:hardhandle</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>1534eeea-4b1b-4a6f-b56f-8bbd2e6574bc</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>GlobalReach</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="globalreach">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippocms:textdocument</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:harddocument</sv:value>
+          <sv:value>hippotranslation:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>c0bdb153-b08c-4c28-8ffe-072919ee10da</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>whyclickbank/sell/globalreach</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippocms:summary" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:tag" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippocms:title" sv:type="String">
+          <sv:value>Global Reach</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:holder" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2012-07-09T13:15:26.505-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:22:03.905-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2012-07-09T14:22:13.630-06:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>c4265545-7b03-4988-ad8a-1ae4fad76b89</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>en</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippotranslation:translations">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippotranslation:translations</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippocms:body">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;table style="font-family: Verdana; width: 440px; line-height: normal; " cellpadding="0" class="content_table"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Reach customers around the globe&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+More than 100,000 active affiliates in 145 countries&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="font-family: Verdana; "&gt;
+&lt;img src="http://www.clickbank.com/images/mkweb20/yellow_bullet.png"/&gt;&lt;/td&gt;
+&lt;td style="font-family: Verdana; padding: 8px 5px 5px; " class="bullet_content"&gt;
+Sell your product in English, Spanish, French, and German&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="promote">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+      <sv:value>hippotranslation:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>cf77f3a1-ef32-4c77-9b46-984cb6968530</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>44ea2cff-836a-4da0-85a3-fb4e80767f05</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>

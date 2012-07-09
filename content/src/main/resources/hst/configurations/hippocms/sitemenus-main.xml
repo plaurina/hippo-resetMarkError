@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="main">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hst:sitemenu</sv:value>
+  </sv:property>
+  <sv:node sv:name="Sell Products">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemenuitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+      <sv:value>sell_products.html</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Promote Products">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemenuitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+      <sv:value>promote_products.html</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Buy Products">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemenuitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+      <sv:value>buy_products.html</sv:value>
+    </sv:property>
+    <sv:node sv:name="Shopping Home">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>about_us.html</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="Shopping FAQS">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>about_us.html</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="About Us">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemenuitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+      <sv:value>about_us.html</sv:value>
+    </sv:property>
+    <sv:node sv:name="About Us">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>about_us.html</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="Client Testimonials">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>about_us.html</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="Legal &amp; Policies">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>legal.html</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="Business Development">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>about_us.html</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="Press">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>press_room.html</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="Careers">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hst:sitemenuitem</sv:value>
+      </sv:property>
+      <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+        <sv:value>contact_us.html</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="Help Center">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hst:sitemenuitem</sv:value>
+    </sv:property>
+    <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
+      <sv:value>help</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>

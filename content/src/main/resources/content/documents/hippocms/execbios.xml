@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="execbios">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippo:harddocument</sv:value>
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>hippo:translated</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>393f33f9-b628-4105-afea-062f9a809bf7</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-biodocument</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>c465b0d9-502f-439c-a2aa-6be2a1d6cdc6</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="hippotranslation:translations">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippotranslation:translations</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="hippo:translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:translation</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:language" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hippo:message" sv:type="String">
+      <sv:value>ExecBios</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="ceo">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:hardhandle</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>d326cc44-04ba-4d34-acf0-16ab6ff1feb4</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>CEO</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="ceo">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippocms:biodocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>fa3ee56c-b575-4a09-8689-3161850bfad9</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>execbios/ceo</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippocms:title" sv:type="String">
+        <sv:value>Bradley J. Wiskirchen, Chief Executive Officer</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:holder" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2012-05-22T13:25:28.334-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2012-05-23T10:17:28.233-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2012-05-23T10:17:36.188-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>36b9fcbe-95f5-48ec-a651-c6ba009e35fa</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippocms:body">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;Bradley J. Wiskirchen is the CEO of Keynetics and its subsidiaries, ClickBank
+and Kount.&lt;/p&gt;
+
+&lt;p&gt;Wiskirchen joined Keynetics in 2005. His skills and experience in business,
+technology and law give Keynetics an edge in strategic planning and negotiation
+in the Internet sector. Under his guidance, Keynetics has become one of the
+Pacific Northwest's largest privately held technology companies. Kount has
+become the premier fraud prevention solution for card-not-present merchants, and
+affiliate marketing giant ClickBank has grown to be one of the world's largest
+online retailers.&lt;/p&gt;
+
+&lt;p&gt;Among his many industry and community involvements, Wiskirchen serves as a
+Director of the Salt Lake City Branch of the Federal Reserve Bank. He is also
+the co-founder and former Chair of the Idaho Software Employers Alliance (ISEA)
+which merged with the Idaho Technology Council (ITC) in 2010. Additionally,
+Wiskirchen has held board positions with the Boise Metro Chamber of Commerce,
+Boise State University Office of Technology Transfer, FUNDSY, Discovery Center
+of Idaho, Intermountain Venture Forum and many other organizations.&lt;/p&gt;
+
+&lt;p&gt;Prior to joining Keynetics, Wiskirchen was a partner in the law firm of
+Holland &amp;amp; Hart, where he managed the firm's Business Entities and
+Transactions Practice Group. His experience includes mergers and acquisitions,
+technology transfer and licensing and debt and equity financings.&lt;/p&gt;
+
+&lt;p&gt;He was awarded a J.D. from the University of Notre Dame, and a B.A. from
+Brigham Young University.&lt;/p&gt;
+
+&lt;p&gt;His resume is online
+&lt;a target="_blank" href="http://www.linkedin.com/in/bradwiskirchen"&gt;here&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippocms:image">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>c199c214-3e5f-4765-9c04-570e5b444496</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>

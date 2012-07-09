@@ -1,0 +1,3169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="help">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippo:harddocument</sv:value>
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>hippo:translated</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>47202eb2-80ba-49f6-9760-97cb24ed0790</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>abaf9b40-34b7-4ce3-bf37-a4357f612f43</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="hippotranslation:translations">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippotranslation:translations</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="affiliate">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>74f0598b-28ee-448e-bda3-4bb8bc8d5e8e</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>6f9eb3b3-4e50-41d7-9b99-3171b98fe883</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Affiliate</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="basics">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>965a407d-38d9-4dff-8b36-90232bac487e</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>39869abe-fbe9-4ee7-82a1-82bfe15e5dbd</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Basics</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="get-started-as-and-affiliate">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>31400a82-a61b-4902-81a0-1b9b634d8c80</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Get Started as and Affiliate</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="get-started-as-and-affiliate">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>336cb1a4-f224-4ec3-93b8-5a7dc58b0b4e</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/affiliate/basics/get-started-as-and-affiliate</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:string" sv:type="String">
+            <sv:value>new member</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>How to get started with Clickbank as an Affiliate Marketer</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>new member, mysite</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Get Started as an Affiliate</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>editor</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-18T16:34:51.676-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T15:37:37.513-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>editor</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-26T10:53:53.760-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>84ae348c-e161-4cb6-8e2f-bed5812b993d</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;Becoming a ClickBank affiliate is a quick and easy process. By following the
+three simple steps below, you’ll be on your way to becoming a successful
+affiliate in no time! If you’re looking to get started creating and selling your
+own products as a
+vendor, &lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/"&gt;click
+here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;1. Create an Account &lt;/h2&gt;
+&lt;p&gt;To get started as a ClickBank affiliate, first you’ll need to create a free
+account. Fill out
+the&lt;a target="_blank" href="https://www.clickbank.com/affiliateAccountSignup.htm"&gt;ClickBank
+signup form&lt;/a&gt;, which takes just a couple of minutes. Be sure to enter all of
+your contact information accurately, in case we need to contact you regarding
+your account and so we can send you your earnings. You’ll receive an email with
+an 8-digit confirmation code you’ll need to enter to complete the signup
+process. This email will contain your account nickname (which you chose) and
+password (which is the same as the confirmation code you received).&lt;/p&gt;
+
+&lt;p&gt;Now that your account is created, click the Log In link on the confirmation
+page or at the top of the ClickBank website. Once you log in, you’ll be taken to
+the Account Home page. This is the page where you’ll eventually be able to see
+your earnings, as well as important ClickBank news, updates, and more.&lt;/p&gt;
+
+&lt;p&gt;If you click the next tab, called Account Settings, you will see all of the
+information you entered on the signup form.  If you have listed a U.S. address,
+you will see a field called Tax ID flashing in red in the Account Information
+section.  If you have a U.S. address and earn over $600 by the end of the
+calendar year, you’ll need to enter an Employer Identification Number (for
+businesses) or a Social Security Number (for individuals) in the Tax ID field.
+ For more information, see
+our&lt;a target="_blank" href="http://www.clickbank.com/accounting.html#A21"&gt;Accounting
+Policy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Next, you’ll see the Contact Information section. Since you’re an affiliate,
+you do not need to fill out any of the email addresses or phone numbers in the
+Contact Information box except for your basic Account Email address and phone.
+&lt;/p&gt;
+
+&lt;p&gt;By clicking Edit on the Payment Information box, you can change your payment
+threshold, which is the minimum amount you need to earn before we send you a
+check. Please note that there is a $2.50 processing charge per payment we issue,
+regardless of the amount of the check or direct deposit. When you first start
+out, you can only choose to be paid by check. However, once you’ve received two
+(2) checks, and if you’re in our list of supported countries, you can choose to
+be paid by direct deposit to your bank account.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Important: &lt;/strong&gt;Affiliates should &lt;strong&gt;not&lt;/strong&gt; fill out
+the My Site, My Products, or My Images pages. These are for ClickBank vendors
+only. &lt;strong&gt;Affiliates should not submit product approval requests and do not
+need to pay an activation charge for their account!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;2. Find a Product to Promote &lt;/h2&gt;
+&lt;p&gt;Now that your account is created and you have a ClickBank nickname, you’re
+ready to find a product to promote. Unless you already have a product in mind
+that you want to promote, the best place to start is the
+ClickBank &lt;a target="_blank" href="http://www.clickbank.com/marketplace.htm"&gt;Marketplace&lt;/a&gt;.
+You can find products you’re interested in promoting by searching on particular
+keywords or browsing by categories and sub-categories. Once you hit Go, you’ll
+be presented with a list of products matching your criteria.&lt;/p&gt;
+
+&lt;p&gt;For more information about deciding which product(s) to promote, see our
+article &lt;a target="_blank" href="http://www.clickbank.com/help/affiliate-help/affiliate-basics/finding-products-to-promote/"&gt;Finding
+Products to Promote&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve selected a product, click the Promote button to the right of the
+product listing. This will pop open a new window, where you’ll enter your
+ClickBank nickname, an optional Tracking ID, and click Create. This will create
+a HOPLINK™ referral tracking URL that’s specifically tied to your nickname and
+the particular product you choose. It is automatically encrypted for your
+protection.&lt;/p&gt;
+
+&lt;p&gt;You’ll see two versions of the same HopLink. The top version, in black text,
+is in plain text. You’d use this option if you want to share your HopLink via
+email, Twitter, Facebook, or any other method where you don’t need to create
+HTML code yourself. The second version, in blue, is formatted in HTML code in
+case you want to insert the link directly into your own website or another
+source that requires HTML formatting. On the second option, you can change the
+part that says “Click Here!” to say anything you want, such as “Check out this
+great product I found!”&lt;/p&gt;
+
+&lt;p&gt;We recommend that you copy and paste your new HopLink into a text document or
+save it in some other way on your computer, as ClickBank does not store HopLinks
+for you. If you don’t save it yourself, you’ll need to return to the Marketplace
+each time you want to generate the HopLink, which can be time-consuming.&lt;/p&gt;
+
+&lt;p&gt;To learn more about HopLinks, see
+“&lt;a target="_blank" href="http://www.clickbank.com/help/affiliate-help/affiliate-basics/all-about-hoplinks/"&gt;All
+About HopLinks&lt;/a&gt;,” but for now you’re ready to start promoting your HopLink!
+&lt;/p&gt;
+&lt;h2&gt;3. Start Promoting Your HopLink &lt;/h2&gt;
+&lt;p&gt;OK, you’ve signed up for your free ClickBank account and have created your
+first HopLink. But where should you actually start promoting your HopLink?
+Trying to decide where to spend your time and effort can be a bit overwhelming
+at first, but we’ll give you some ideas to get started. Once you’ve mastered the
+basics, your imagination is the only limit to the ways you can promote ClickBank
+products.&lt;/p&gt;
+
+&lt;p&gt;If you have your own website, that is one great place to promote
+hoplinks. &lt;strong&gt;&lt;em&gt;However – it is not necessary to have a website to be a
+ClickBank affiliate!&lt;/em&gt;&lt;/strong&gt; We’ve created a guide
+called&lt;a target="_blank" href="http://www.clickbank.com/help/affiliate-help/affiliate-guides/common-ways-to-promote-products/"&gt;Common
+Ways to Promote Products&lt;/a&gt; that’s a great place to learn about other methods
+affiliates use to promote ClickBank products effectively.&lt;/p&gt;
+
+&lt;p&gt;An important rule of thumb to remember is that if you want to get a good
+return on your time, money, and efforts, you should promote products to
+audiences that might be interested in them. For example, if you post your
+HopLink to a course on Internet Marketing in a forum dedicated to politics or
+gardening, people won’t click on your HopLink and you may find yourself quickly
+banned from the forum.&lt;/p&gt;
+
+&lt;p&gt;However, if you link to the same Internet Marketing course in a forum or
+discussion group dedicated to making money online, along with reasons why you
+think this is a great product and how it can benefit other members, you’re
+likely to get many more clicks and purchases from your HopLink. Posting a useful
+and relevant HopLink and description will also make it more likely that members
+will trust your recommendations in the future.&lt;/p&gt;
+
+&lt;p&gt;The same principle goes for other common promotional techniques like article
+writing or tapping into your social network— the more relevant and useful the
+product is to your audience, the better your sales will be.&lt;/p&gt;
+
+&lt;p&gt;For more tips on best practices and what techniques to avoid, see our
+guide &lt;a href="http://www.clickbank.com/help/affiliate-help/affiliate-guides/affiliate-dos-and-donts/"&gt;Affiliate
+Dos and Don’ts&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;FAQ &lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Q: To promote different products as an affiliate, do I need multiple
+accounts?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;No, you can promote any number of different products as
+an affiliate through a single account. There is no need to sign up for separate
+accounts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: Do I need my own website to get started as an affiliate?  &lt;br/&gt;
+&lt;/strong&gt; &lt;br/&gt;
+&lt;strong&gt;A: &lt;/strong&gt;No, it is not necessary to have a website to be a ClickBank
+affiliate, though you may use one if you wish.  Some other examples of how you
+might advertise affiliate HopLinks are through the use of online banner ads,
+e-mail newsletters, online magazines, ads in online classifieds, or advertising
+on search engines. For more ideas on common ways to promote products, please see
+our guide
+called &lt;a target="_blank" href="http://www.clickbank.com/help/affiliate-help/affiliate-guides/common-ways-to-promote-products/"&gt;“Common
+Ways to Promote Products.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: Does ClickBank provide image banners to use in product
+promotions?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;No, although many ClickBank vendors will provide banners
+directly to affiliates via an Affiliates page on their product website. Check
+Marketplace descriptions or look for an Affiliates link on a vendor’s Pitch Page
+to see if they offer banners for their product.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="what-is-an-affiliate">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>5edfe507-3981-4db2-abdf-0383db279835</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>What is an Affiliate</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="what-is-an-affiliate">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>794ccbeb-0448-4e3b-a8e9-5aa660a4eb22</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/affiliate/basics/what-is-an-affiliate</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:string" sv:type="String">
+            <sv:value>new member</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>Learn what the difference is between being an affiliate vs a vendor</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>new member, mysite</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>What is an Affiliate</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-18T16:36:30.584-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:51:04.242-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:51:07.503-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>19e790f3-6943-411c-aacf-aeb0d216e1aa</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;An affiliate is someone who promotes a product or service to potential
+customers, in exchange for a commission on the sale when one occurs.&lt;/p&gt;
+
+&lt;p&gt;For example, let’s say Alan is an avid gardener. He buys a great ebook
+through ClickBank about growing bigger roses, and wants to recommend it to
+others. He signs up for a free account with ClickBank, then finds the ebook
+about roses in the ClickBank Marketplace and creates a customized HopLink. He
+posts this HopLink in places where he thinks people would be interested in the
+ebook, such as a gardening forum he’s a member of, his gardening blog, his
+Facebook profile, even in an email to some of his gardener friends. The
+possibilities really are limitless.&lt;/p&gt;
+
+&lt;p&gt;If someone clicks on his HopLink to learn more about the ebook and ends up
+purchasing it, Alan gets a generous commission on the sale— as much as 75%,
+depending on the product!&lt;/p&gt;
+
+&lt;p&gt;Being a ClickBank affiliate is completely free, and takes only minutes to
+sign up. The best part is that Alan can promote as many ClickBank products as he
+wants, with no limitations. He also finds and promotes an ebook about how to
+attract hummingbirds to your garden, and eventually starts promoting products
+for other topics he’s interested in. ClickBank handles all of the administrative
+headaches, so Alan can spend his time finding and promoting great products (as
+well as gardening, of course).&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;FAQ&lt;/strong&gt; &lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Q: Who can be an affiliate?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;We accept affiliates from over 150 countries. To see a
+full list of accepted countries, visit
+our&lt;a target="_blank" href="https://www.clickbank.com/affiliateAccountSignup.htm"&gt;signup
+page&lt;/a&gt; and click the Country dropdown. You don’t need to own your own website
+to promote products, though you’ll need a valid email address and phone number
+where we can contact you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: Does it cost anything to be an affiliate?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;No, ClickBank does not charge any fees to sign up as an
+affiliate. You may decide to spend money on your promotional efforts, such as
+paid advertising, but this is entirely up to you. Please note that there is a
+one-time $49.95 activation charge for vendors that want to offer their product
+through ClickBank, but there is no similar charge for affiliates to activate the
+account.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: How much can I earn?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; The sky’s the limit! We don’t put any cap on how much you
+can earn with ClickBank, and we have many affiliates who’ve earned thousands or
+even millions of dollars. Commissions range from 1% to 75% and are determined by
+the product vendor. The minimum commission for a single sale is $0.25, and the
+maximum is $150. If you promote recurring billing products, you can even earn
+recurring commissions from the time of purchase until the subscription is
+completed or canceled.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: How many products can I promote?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; There’s no limit to the number of products you can
+promote. ClickBank has tens of thousands of products in our Marketplace, and you
+can promote almost all of them immediately, with no contracts or waiting.&lt;/p&gt;
+
+&lt;p&gt;Related posts:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a title="Get Started as an Affiliate" href="get-started-as-and-affiliate"&gt;Get
+Started as an Affiliate&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+            <sv:node sv:name="get-started-as-and-affiliate">
+              <sv:property sv:name="jcr:primaryType" sv:type="Name">
+                <sv:value>hippo:facetselect</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:docbase" sv:type="String">
+                <sv:value>31400a82-a61b-4902-81a0-1b9b634d8c80</sv:value>
+              </sv:property>
+              <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+              <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+            </sv:node>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="tools">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>548dfd2c-650c-445c-9d81-1877fede8707</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>319124c0-ecb6-4231-a7d5-018d1f87ba84</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Tools</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="guides">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0c230930-5124-4d68-bbd2-df910ade4050</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>7a5b93c5-82bb-458c-87a3-1c97947a75f4</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>guides</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="common-ways-to-promote-products">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>8a6c92f1-db60-4c18-80ad-0f01c04d8e5b</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Common Ways To Promote Products</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="common-ways-to-promote-products">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>b0a28066-5f8c-4c73-8f16-e5bf5c16d078</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/affiliate/guides/common-ways-to-promote-products</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>Learn the most common techniques and marketing avenues pursued by other affiliates</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>50k sales, productlist</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Common Ways to Promote Products</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-20T10:37:53.583-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:51:46.295-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:51:49.454-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>8525aac5-47b3-45f8-bdc2-daa0b060fa38</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;As a ClickBank affiliate, the number of ways you can promote ClickBank
+products is nearly unlimited. However, to help get you started, here are some of
+the most common ways that ClickBank affiliates choose to promote products, as
+well as the pros and cons of each.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Article Marketing&lt;/strong&gt; &lt;/h2&gt;
+&lt;p&gt;If you’re an affiliate who’s just starting out and doesn’t have a big budget
+to spend on your advertising initiatives, or if you enjoy writing, article
+marketing can be a good way to start promoting products without having to spend
+a lot of money. Your main investment in article marketing will be your time and
+creativity.&lt;/p&gt;
+
+&lt;p&gt;Article marketing is the technique of writing articles that are posted and
+distributed online for the purpose of driving traffic to a particular website or
+product you’re promoting. These articles may be posted on sites dedicated
+specifically to article marketing, such as Ezinearticles or Goarticles, or could
+be written for an industry-specific website. There are many different styles of
+these articles, such as expert advice articles, a review of a product, or many
+other topics.&lt;/p&gt;
+
+&lt;p&gt;For example, let’s say you are promoting an ebook about gardening. You could
+write an article in an online directory that offers readers some advice about a
+specific topic, like general tips on growing bigger roses. You could then
+mention that you learned these tips and more from a particular ebook, and that
+they should check it out if they’d like even more advice. You’d then post your
+HopLink, so you get credit if someone ends up purchasing the product.&lt;/p&gt;
+
+&lt;p&gt;The additional benefit of article marketing is that if your articles are
+useful enough, you could become recognized as an expert in a particular field,
+which could end up generating more exposure and sales for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;: Free; allows for a great deal of creativity,
+especially if you like writing; if your article gets shared or distributed
+around the Internet, it can “go viral,” resulting in a great deal of additional
+free traffic for you &lt;br/&gt;
+&lt;strong&gt;Cons: &lt;/strong&gt;Time-consuming; may take a lot of effort before you see
+articles start generating traffic; can be competitive if there are many other
+people writing on the same topic&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Niche Sites &amp;amp; Blogs&lt;/strong&gt; &lt;/h2&gt;
+&lt;p&gt;Like article marketing, creating niche sites and/or blogs can be another
+great option for affiliates who have more time and creativity than money. If you
+do create your own website or self-hosted blog, there may be costs for a domain
+name and hosting, but these are typically pretty small. There are also many
+options to get your own site or blog that is hosted for free, though you may be
+more limited on options like the look and feel of the site or how many pages
+your site can have.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve identified a niche market that you want to promote (such as
+gardening), you create your own website or blog that is dedicated to this topic.
+You then write articles for your own site, similar to the types of articles you
+might write for article marketing directories. The goal is to get free traffic
+to your website, either by getting linked to from other sites or by ranking well
+organically in search engines on particular search terms. You can then have
+HopLinks to a number of different ClickBank products in that niche, giving you
+the opportunity to promote many different products from a single source.&lt;/p&gt;
+
+&lt;p&gt;Creating your own site is especially beneficial for ranking in search
+engines, as the more articles and content you create, the higher search engines
+will rank your site. Like article marketing, this technique can take time before
+you start seeing results, so it’s not something you should expect to show
+immediate returns, but it can be one of the best ways to create sustainable
+long-term profits with a minimum of money spent. You can even combine this
+technique with article marketing or social media marketing, by linking to your
+site from the bio of your article or social media profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros: &lt;/strong&gt;Low cost or free; allows for a great deal of
+creativity; potential to drive large amounts of traffic through search engines
+or social media; you can build a “brand” for your website, especially if you
+host your own site or blog and have a unique domain name &lt;br/&gt;
+&lt;strong&gt;Cons: &lt;/strong&gt;Time-consuming; may take a lot of effort before you start
+generating traffic; can be very competitive if there are many other sites in
+your niche&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Social Media Marketing&lt;/strong&gt; &lt;/h2&gt;
+&lt;p&gt;Social media marketing has exploded in the past few years as a way to
+advertise and drive free traffic. “Social media” is a very broad term that
+includes sites and services like Twitter, Facebook, Myspace, social bookmarking
+sites like Digg and Del.icio.us, Youtube, and many more.&lt;/p&gt;
+
+&lt;p&gt;The main benefits of tapping into the power of social media are that it’s
+free and that your message has the potential to “go viral” and reach a huge
+amount of people quickly with no extra effort on your part. The difficulties of
+social media are how to get your voice heard above the millions of other people
+out there, and how to avoid being seen as a social media “spammer.” The key to
+being successful promoting products in the social media space is to provide
+content that’s worthwhile enough for people to actually want to follow you and
+take your advice when you recommend products.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros: &lt;/strong&gt;Free; easy to get started and participate in; has the
+potential to reach huge audiences; many potential sites and services to
+participate in &lt;br/&gt;
+&lt;strong&gt;Cons: &lt;/strong&gt;Lots of competition on popular services like Twitter;
+many people on social networks don’t like to be sold to, so there’s the
+potential to be labeled a spammer&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Search Engine Marketing&lt;/strong&gt; &lt;/h2&gt;
+&lt;p&gt;Search engine marketing is comprised of two main techniques: &lt;strong&gt;search
+engine optimization&lt;/strong&gt;(SEO) and &lt;strong&gt;pay per click
+advertising&lt;/strong&gt; (PPC). Each has very different challenges and benefits.
+&lt;/p&gt;
+
+&lt;p&gt;Search engine optimization (SEO) is the practice of trying to get your
+website, blog, or other page (such as an article you’ve written for an article
+directory) ranked highly in search engines for a particular keyword or phrase.
+The ultimate goal is to drive free traffic to your website or promotion when
+someone searches on that keyword. SEO can generate an extremely good return for
+you, but often requires a significant investment of up-front time to learn good
+SEO techniques and apply these to your work. However, the long-term benefits of
+creating content that ranks well in search engines can be extraordinarily
+profitable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros: &lt;/strong&gt;Typically free; can drive huge amounts of traffic; has
+long-term returns &lt;br/&gt;
+&lt;strong&gt;Cons: &lt;/strong&gt;Steep learning curve; search engine positions change
+regularly, so results can be inconsistent; may take a long time before you see
+results, if at all; competitive&lt;/p&gt;
+
+&lt;p&gt;Pay per click advertising (PPC) is the practice of placing paid
+advertisements in search engine results for a particular keyword or phrase. You
+agree to pay a certain amount if someone searches on a keyword and clicks on
+your advertisement. Many very successful affiliates pay to advertise on the
+search engines, as the main benefit is highly-targeted traffic, but the downside
+is that it can cost a significant amount of money and requires a great deal of
+testing and experimentation to find profitable keywords, ad copy, etc. It can
+also be very competitive, so PPC can be a difficult and expensive tactic for
+affiliates who are just starting out.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pros: &lt;/strong&gt;Quick to get up and running; popular keywords can
+drive a great deal of traffic quickly; you can target highly relevant,
+well-qualified traffic &lt;br/&gt;
+&lt;strong&gt;Cons: &lt;/strong&gt;Can be extremely expensive; highly competitive; search
+engines (especially Google) have many rules about what affiliate promotions are
+acceptable; usually require a great deal of research, attention, and oversight,
+especially early on, to be profitable&lt;/p&gt;
+
+&lt;p&gt;These are just a few of the many ways you can effectively promote ClickBank
+products. ClickBank affiliates are constantly finding new and innovative ways to
+promote products and expand their reach. Hopefully this list will help get you
+started, but we’ve only scratched the surface. The best way to discover what
+will work for you and your niche is to get out there and start experimenting!
+&lt;/p&gt;
+&lt;h2&gt;FAQ &lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Q: Can your team help me create or decide where to place ads or
+promotions?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;Outside of the advice we provide in our Help Center and
+the &lt;a href="http://www.clickbank.com/blog"&gt;ClickBank Blog&lt;/a&gt;, we cannot assist
+you in creating or placing ads or other promotions.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="protecting-your-hoplinks">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>0aadde23-8409-4aeb-8087-b39cc97fe14e</sv:value>
+        </sv:property>
+        <sv:node sv:name="protecting-your-hoplinks">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>deffa5b7-820d-448f-a89f-d62271461624</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/affiliate/guides/protecting-your-hoplinks</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>Learn how to mask the clickbank domain and display your own on hoplinks.</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>5 sales, mysite</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Protecting Your Hoplink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:57:12.431-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:58:45.352-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:58:50.539-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>e2e8467e-41ea-46ec-a6f4-c24cb9f19ee4</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;HopLinks are an extremely secure and reliable method of promoting products
+and receiving affiliate credit for sales. However, some affiliates with
+knowledge of HTML or PHP may want additional ways to encode or “cloak” their
+HopLinks. Please note that cloaking your HopLinks
+is&lt;strong&gt;not&lt;/strong&gt; required, as ClickBank HopLinks are now automatically
+encoded by
+the &lt;a target="_blank" href="https://www.clickbank.com/hoplink_encoding.htm"&gt;HopLink
+Shield&lt;/a&gt;, which provides a great deal of security and protection.&lt;/p&gt;
+
+&lt;p&gt;If you prefer to also cloak the ClickBank portion of the HopLink, we
+recommend sending the customer to a URL of your own that redirects them through
+the correct HopLink. To do this, use the HTML below. Don’t forget to replace
+each occurrence of AFFILIATE and VENDOR with the correct value! Please note that
+this technique is for advanced users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HopLink Cloaker HTML:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table style="font-family: Consolas, 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace !important; border-collapse: collapse; width: 607px; border-top-left-radius: 0px !important; border-top-right-radius: 0px !important; border-bottom-right-radius: 0px !important; border-bottom-left-radius: 0px !important; background-image: none !important; border: 0px !important; bottom: auto !important; float: none !important; height: auto !important; left: auto !important; line-height: 1.1em !important; outline: 0px !important; overflow: visible !important; position: static !important; right: auto !important; text-align: left !important; top: auto !important; vertical-align: baseline !important; box-sizing: content-box !important; font-size: 1em !important; direction: ltr !important; " cellpadding="0" border="0" cellspacing="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;html&amp;gt;&amp;lt;head&amp;gt;&amp;lt;title&amp;gt;Loading
+page&amp;lt;/title&amp;gt;&amp;lt;metahttp-equiv="refresh"content=
+&lt;p&gt;
+"2;url=&lt;a href="http://affiliate.vendor.hop.clickbank.net/"&gt;http://AFFILIATE.VENDOR.hop.clickbank.net&lt;/a&gt;"&amp;gt;
+&amp;lt;script type="text/javascript"&amp;gt;
+url='&lt;a href="http://affiliate.vendor.hop.clickbank.net/"&gt;http://AFFILIATE.VENDOR.hop.clickbank.net&lt;/a&gt;';
+if(document.images) { top.location.replace(url); } else { top.location.href=url;
+} &amp;lt;/script&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt;Loading &amp;lt;a
+href="&lt;a href="http://affiliate.vendor.hop.clickbank.net/"&gt;http://AFFILIATE.VENDOR.hop.clickbank.net&lt;/a&gt;"&amp;gt;page&amp;lt;/a&amp;gt;
+&amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If your web server runs PHP, you can use this simple script instead:&lt;/p&gt;
+
+&lt;table style="font-family: Consolas, 'Bitstream Vera Sans Mono', 'Courier New', Courier, monospace !important; border-collapse: collapse; width: 580px; border-top-left-radius: 0px !important; border-top-right-radius: 0px !important; border-bottom-right-radius: 0px !important; border-bottom-left-radius: 0px !important; background-image: none !important; border: 0px !important; bottom: auto !important; float: none !important; height: auto !important; left: auto !important; line-height: 1.1em !important; outline: 0px !important; overflow: visible !important; position: static !important; right: auto !important; text-align: left !important; top: auto !important; vertical-align: baseline !important; box-sizing: content-box !important; font-size: 1em !important; direction: ltr !important; " cellpadding="0" border="0" cellspacing="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;lt;?phpheader(
+&lt;p&gt;"Location:
+&lt;a href="http://affiliate.vendor.hop.clickbank.net/"&gt;http://AFFILIATE.VENDOR.hop.clickbank.net&lt;/a&gt;");
+?&amp;gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Protecting Your Hoplinks</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="resources">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>45118556-7847-4f5e-91ef-d35ab3644075</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>dbe0200d-3488-49b4-a0af-c9c2179cfd9b</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Resources</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="hippo:translation">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:translation</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:language" sv:type="String">
+      <sv:value/>
+    </sv:property>
+    <sv:property sv:name="hippo:message" sv:type="String">
+      <sv:value>Help</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="vendor">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>970089f6-7d32-4957-9678-5ddedfa17366</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>eb45ed51-0323-4d3e-8557-bfebf65bdb11</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Vendor</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="basics">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>7929b99e-9cda-468f-a44d-9cbee8f01e46</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>c4648574-b25a-405d-bb7c-4a6a21395955</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Basics</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="attract-more-affiliates">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>00c88ef3-26d4-44f9-a12a-8e028d0b8965</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Attract More Affiliates</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="attract-more-affiliates">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>e0f5a46e-2124-4ffd-be71-0ae1f0aab726</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/vendor/basics/attract-more-affiliates</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>Learn how to attract more affiliates to promote your product and increase your sales</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>5 sales, productlist</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Attract More Affiliates</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-21T10:24:45.541-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:50:33.904-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:50:37.097-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>998e6341-b78f-4233-a3db-057f04de26e8</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;No matter what your product or niche is, the easiest way to generate huge
+sales of your product is to attract a lot of affiliates to promote it. While
+some established ClickBank vendors have no problem finding affiliates to promote
+their next big product, if you’re just starting out it can be hard to know how
+to let affiliates know about your product and convince them to promote it. This
+guide will offer some ideas to make this discovery process easier and faster.
+&lt;/p&gt;
+&lt;h2&gt;Have a Great Marketplace Listing &lt;/h2&gt;
+&lt;p&gt;The first place to start is with your Marketplace listing, which is the
+initial place that most affiliates will see and learn about your product. Since
+the Marketplace is heavily used by affiliates, it’s very important that your
+product description and information provide them with the information they need
+to decide whether to promote your product.&lt;/p&gt;
+
+&lt;p&gt;The important question that affiliates want to know about your product is,
+“What’s in it for me?” Before knowing anything else about your product, they
+want to know why they should choose to promote yours over the thousands of other
+products available in the Marketplace.&lt;/p&gt;
+
+&lt;p&gt;The product description is your chance to highlight how your product benefits
+affiliates. Be honest and set realistic expectations for the affiliate. If they
+choose to promote your product based on claims about how well it converts or how
+much support you provide for affiliates, they’ll quickly stop promoting your
+product if they feel your claims aren’t justified. Some of the benefits that
+affiliates know to look for and value:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Good conversion rate (ratio of visitors to a site who end up buying)&lt;/li&gt;
+&lt;li&gt;High average $ earned/sale&lt;/li&gt;
+&lt;li&gt;Vendors who provide an affiliates page with useful information for
+affiliates promoting the product (see below for more details)&lt;/li&gt;
+&lt;li&gt;If a product offers recurring commissions, as in the case of subscription or
+membership products&lt;/li&gt;
+&lt;li&gt;Low refund rate&lt;/li&gt;
+&lt;li&gt;Any unique or interesting details about your product that make it unique
+&lt;/li&gt;
+&lt;li&gt;If the product is in a “hot” niche&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mentioning any of the above benefits that apply to your product can be a
+great way to communicate to affiliates that your product is worth promoting.
+&lt;/p&gt;
+&lt;h2&gt;Have a Great Affiliates Page &lt;/h2&gt;
+&lt;p&gt;As mentioned above, one of the best ways to attract affiliates is to make
+their job easier for them by providing a page on your website with extensive
+information and tools for them that make promoting your product easier. These
+include things like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Attractive banner ads, buttons, graphics, etc, that they can paste directly
+into their site with their HopLink to your product. It’s a good idea to provide
+a wide variety of graphics in different sizes, formats, etc&lt;/li&gt;
+&lt;li&gt;Suggested keywords that relate to your product, which they can either bid on
+in paid advertising, or try to rank in search engines to drive free traffic to
+your website&lt;/li&gt;
+&lt;li&gt;An FAQ about your product that they can use to write articles about your
+product or provide information to potential customers&lt;/li&gt;
+&lt;li&gt;General tips about how to promote your product, such as “inside information”
+about your niche that an outsider wouldn’t know, suggestions for how to convince
+visitors to click their HopLink, etc&lt;/li&gt;
+&lt;li&gt;Examples of articles or topics that would be of interest to your potential
+customers, which they can use for articles or advertising&lt;/li&gt;
+&lt;li&gt;Testimonials you’ve received about your product&lt;/li&gt;
+&lt;li&gt;A step-by-step description of how to become an affiliate, for people who
+aren’t already familiar with ClickBank but would like to promote your product to
+others&lt;/li&gt;
+&lt;li&gt;Any additional pre-sales material they can use on their site, such as a
+video about your product that can use their HopLink to send the visitor to your
+Pitch Page after the video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When providing any kind of affiliate materials that require working with HTML
+or other code, it’s a good idea to provide the exact code for affiliates to copy
+and paste into their website, since many people aren’t very comfortable working
+directly with code.&lt;/p&gt;
+
+&lt;p&gt;The more help you can offer your affiliates, the more they’ll be willing to
+promote your product, which is a win-win. Since producing these materials often
+only takes time or the relatively small cost of hiring a graphic designer to
+make buttons and graphics for you, creating a truly useful and attractive page
+for affiliates is an excellent investment in your product that can easily pay
+for itself.&lt;/p&gt;
+
+&lt;p&gt;As a side note, a long-time ClickBank vendor and affiliate wrote a post on
+our blog about Pitch Page mistakes that ClickBank vendors make that often drive
+away potential affiliates. It’s worth reading when designing your Pitch Page and
+Affiliates pages. You
+can &lt;a target="_blank" href="http://www.clickbank.com/blog/2009/06/04/five-pitch-page-mistakes-clickbank-vendors-should-avoid/"&gt;read
+it here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Important: &lt;/strong&gt;We strongly recommend that as part of your
+affiliates page, you include things like an Earnings Disclaimer (which states
+that any estimates of how much affiliates can make by promoting your product is
+just that- an estimate and not a guarantee) and an Anti-Spam Policy, stating
+that you will not tolerate affiliates who promote your product through illegal
+or unethical techniques, and warning them that ClickBank may terminate their
+affiliate account, and that they will not be allowed to promote your product if
+they do so. These types of disclaimers set important expectations for your
+affiliates, so they know what behaviors are
+acceptable &lt;strong&gt;before&lt;/strong&gt;they start promoting your product.&lt;/p&gt;
+&lt;h2&gt;Recruit Your Own Affiliates &lt;/h2&gt;
+&lt;p&gt;Rather than waiting for affiliates to stumble across your product, why not
+actively recruit affiliates to promote it? Many of the top ClickBank vendors do
+this, and the time and effort you put into it can generate big returns. There
+are many different ways you can go about this, but some popular practices are:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Recruit on forums: &lt;/strong&gt;There are quite a few forums dedicated
+to affiliate marketing. Although you should always check a forum’s policies
+before posting about your product and trying to recruit affiliates, many forums
+allow this and it is a common practice. However, you should be aware that many
+vendors promote their products to affiliates via this method, so to really stand
+out and capture affiliates’ attention, you should try to find ways to
+differentiate your product from others and answer “What’s in it for me?” as well
+as offering great tools and support to affiliates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social media: &lt;/strong&gt;Rather than just waiting for affiliates to
+find you, one great way to attract them is to get your name and product out
+there via social media marketing. If you can build a presence for yourself on
+popular networks like Facebook, Twitter, and others, this can be a good way to
+recruit affiliates. If you become a trusted expert in your field, such as
+fitness or Internet marketing, potential affiliates will learn about you from
+other people they connect with on the social networks, and will be interested in
+promoting what you have to sell. In addition, it can be a great way to
+communicate with existing affiliates and let them know about new products you
+have coming out, or changes to your existing product, like if you raise your
+commission rate or are offering special bonuses to affiliates. Participating in
+social media can be useful in other ways too, since it lets you keep an eye on
+what types of products and offers affiliates are interested in, as well as
+trends or concerns in your area of expertise.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Join My Affiliate Program link:&lt;/strong&gt; With ClickBank’s Join My
+Affiliate Program (JMAP) link, you can also recruit affiliates directly. Just
+keep in mind that affiliates are required to establish a ClickBank account so
+that we can track their sales, send them checks and provide them with the
+information needed to refer potential customers to your products. In order to
+enroll your new recruits, all you need to do is add the JMAP link to your
+affiliates page, if you have one.  Here’s what happens when you submit a
+potential affiliate via the JMAP link:&lt;/li&gt;
+&lt;li&gt;We ask them for their ClickBank nickname. If they have no nickname, we ask
+them to sign up with a ClickBank account, which is FREE for affiliates&lt;/li&gt;
+&lt;li&gt;We show them how to make a HopLink to promote your products&lt;/li&gt;
+&lt;li&gt;We close our JMAP window so they end up back at your site&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your JMAP links must be targeted to a new window, and should be in the
+following format:&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;a href=”http://VENDOR.jmap.clickbank.net” target=”jmap”&amp;gt;CLICK
+HERE&amp;lt;/a&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s how to make it work…&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Replace VENDOR with your vendor nickname.&lt;/li&gt;
+&lt;li&gt;Replace CLICK HERE with any promotional text or image you prefer.&lt;/li&gt;
+&lt;li&gt;Leave target=”jmap” alone. This is what makes the link open in a new window.
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Expert advice: &lt;/strong&gt;Long-time ClickBank superaffiliate Chris
+McNeeney wrote a guest post on our blog about
+proactively &lt;a target="_blank" href="http://www.clickbank.com/blog/2010/02/04/finding-affiliates-to-promote-your-product/"&gt;contacting
+affiliates to promote your product&lt;/a&gt;. Be sure to check it out, as he gives
+some extremely useful advice!&lt;/p&gt;
+&lt;h2&gt;Create a HopAd for Your Product &lt;/h2&gt;
+&lt;p&gt;One way to get more affiliates to promote your product is to get your product
+out there via ClickBank’s HopAd Builder. It’s an ad platform that allows
+ClickBank affiliates to host text ads on their website that relate to the topic
+of their site. It’s completely free for vendors to use, and can potentially gain
+massive exposure for your product, without any extra effort on your part! All
+you have to do is create a simple customer-facing ad for your product, and the
+HopAd Builder does the rest. For more information on how to create an ad,
+see &lt;a href="http://www.clickbank.com/help/vendor-help/vendor-tools/creating-vendor-hopads/"&gt;Creating
+Vendor HopAds&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Place an Ad in the Marketplace &lt;/h2&gt;
+&lt;p&gt;One of the most effective ways to immediately get your product in front of
+affiliates is to place an advertisement in ClickBank’s Marketplace. As you know,
+the ClickBank Marketplace consists of several category and subcategory pages
+that help affiliates find the kinds of products they’d like to promote. Each
+page has eight ad spaces that can be used by vendors to highlight the benefits
+of promoting their products. Unlike Marketplace listings, ads are seen by all
+affiliates that look for products on any particular category or subcategory
+page. Marketplace advertising can do a lot for both new and experienced vendors.
+In fact, many of our top vendors have been advertising on multiple pages within
+the Marketplace for several years.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in advertising with ClickBank, visit
+the &lt;a target="_blank" href="http://www.clickbank.com/marketplace.htm"&gt;Marketplace&lt;/a&gt;,
+browse through our various categories and subcategories, and choose one or more
+pages where your ad would best fit. Once you know where you would like to place
+an ad, &lt;a target="_blank" href="http://www.clickbank.com/advertise.html"&gt;click
+here&lt;/a&gt; to be added to our waiting list. If a spot is available in your
+selected category/subcategory, you will be contacted promptly.&lt;/p&gt;
+&lt;h2&gt;Other Resources &lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;One of our ClickBank Account Specialists, Ashley Adamson, wrote a helpful
+5-part series on our blog called How to Become an Affiliate Magnet. It contains
+some great advice for vendors on how to appeal to affiliates. You
+can &lt;a target="_blank" href="http://www.clickbank.com/blog/2008/11/17/tips-for-becoming-an-affiliate-magnet-part-1/"&gt;read
+it here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="get-started-as-a-vendor">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>d5342e4b-7390-4eca-8fe4-c793b5fa30d3</sv:value>
+        </sv:property>
+        <sv:node sv:name="get-started-as-a-vendor">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>a858e750-0ee0-4d7e-8bab-c4d44983e6ed</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/vendor/basics/get-started-as-a-vendor</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>A "How-To Guide" to getting started with Clickbank and begin selling your product.</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>new member, productlist</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Get Started as a Vendor</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:54:35.361-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:56:07.188-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:56:10.083-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>84e06b1a-ad67-4e5c-ba0a-a61b21fc4da0</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;Selling your digital product through ClickBank is one of the best ways to
+quickly get exposure and sales for your product. Within a few business days, you
+can be up and running and have your product promoted by our huge network of
+affiliates! Here are the easy steps for getting set up as a ClickBank vendor:
+&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#1"&gt;Sign
+Up with ClickBank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#2"&gt;Create
+a Pitch Page and Thank You Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#3"&gt;Make
+a Payment Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#4"&gt;Complete
+My Site Information Within Your Account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#5"&gt;Complete
+My Products Information Within Your Account&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#6"&gt;Test
+Payment Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#7"&gt;Request
+Product Approval&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#8"&gt;Pay
+One-Time $49.95 Activation Charge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="http://www.clickbank.com/help/vendor-help/vendor-basics/get-started-as-a-vendor/#9"&gt;You’re
+Done!&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;1. Sign Up for a ClickBank Account &lt;/h2&gt;
+&lt;p&gt;Before joining ClickBank, please make sure to read
+our &lt;a href="http://www.clickbank.com/terms.html"&gt;Client
+Contract&lt;/a&gt;, &lt;a href="http://www.clickbank.com/product_requirements.html"&gt;Vendor
+and Product
+Requirements&lt;/a&gt;, &lt;a href="http://www.clickbank.com/accounting.html"&gt;Accounting
+Policy&lt;/a&gt;,
+and &lt;a href="http://www.clickbank.com/refund_policy_faq.html"&gt;Return
+Policy&lt;/a&gt;.
+Click &lt;a href="http://www.clickbank.com/accountSignup.htm"&gt;here&lt;/a&gt; to sign up
+for a free ClickBank account now.&lt;/p&gt;
+&lt;h2&gt;2. Create a Pitch Page and Thank You Page &lt;/h2&gt;
+&lt;p&gt;To sell a product through ClickBank, you will need your own website,
+including &lt;a target="_blank" href="http://en.wikipedia.org/wiki/Web_Hosting"&gt;web
+hosting&lt;/a&gt; and a registered domain name. You cannot sell a product through
+ClickBank using a web page hosted on free sites, and ClickBank does not provide
+hosting for web pages or assistance with design or coding of websites. You must
+create two pages on your website that are used to sell your ClickBank product:
+pages that we at ClickBank call a Pitch Page and a Thank You Page.&lt;/p&gt;
+&lt;h3&gt;A: The Pitch Page &lt;/h3&gt;
+&lt;p&gt;The Pitch Page is used to describe your product to potential customers and
+convince them to buy. It is sometimes referred to as a “sales page.” When
+customers are ready to buy they click on a ClickBank payment link on your Pitch
+Page that links them to the ClickBank order form, where customers can place
+their order. In addition to the ClickBank payment link (see Step 3 for specific
+instructions), your Pitch Page must include the following information:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;A detailed description of the product.&lt;/li&gt;
+&lt;li&gt;The cost of the product.&lt;/li&gt;
+&lt;li&gt;For recurring billing products, be sure to clearly state all the details of
+the rebill schedule, including the number of times a customer is billed, and how
+frequently they will be billed. For example, you should say, “Your initial
+charge will be $19.95. You will then be charged $9.95 per month for the next 11
+months.”&lt;/li&gt;
+&lt;li&gt;The file format of your product, as well as any particular software or
+operating system required to use it (e.g., Microsoft Word, Adobe Acrobat, etc.).
+&lt;/li&gt;
+&lt;li&gt;If your product is only useful to customers in a particular geographic
+region or country, be sure to say so.&lt;/li&gt;
+&lt;li&gt;How the product will be delivered (e.g., direct download, via email, etc.).
+&lt;/li&gt;
+&lt;li&gt;How long delivery will take (e.g., immediate, 5 minutes, etc.).&lt;/li&gt;
+&lt;li&gt;For recurring billing products, explain how the product will be delivered,
+and how often. For example, if you sold a monthly newsletter, you could say that
+it will be delivered by email on the 1st of each month.&lt;/li&gt;
+&lt;li&gt;Customers must be able to reach you if they have a question about your
+product prior to purchase. Please include an email address, a link to your email
+address, or a contact us link on your Pitch Page.&lt;/li&gt;
+&lt;li&gt;To ensure your use of a ClickBank trademark does not mislead consumers as to
+any sponsorship, affiliation or endorsement by ClickBank of your company,
+products or services, the following disclaimer needs to be at the bottom of any
+page with a ClickBank reference:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ClickBank is the retailer of this product. CLICKBANK® is a registered
+trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk
+Street, Suite 200, Boise Idaho, 83706, USA and used by permission.  ClickBank’s
+role as retailer does not constitute an endorsement, approval or review of this
+product or any claim, statement or opinion used in promotion of this product.
+&lt;/p&gt;
+
+&lt;p&gt;All statements made on the Pitch Page are subject to
+ClickBank’s &lt;a target="_blank" href="http://www.clickbank.com/terms.html"&gt;Client
+Contract&lt;/a&gt; and Product Requirements, as well as all applicable federal and
+state laws, including, but not limited to, U.S. Federal Trade Commission
+regulations, policies, and guidelines governing advertising, disclosure, and
+consumer protection. These rules can be found
+at &lt;a target="_blank" href="http://www.ftc.gov/"&gt;www.FTC.gov&lt;/a&gt;. Also, please
+be sure to read our recent article
+on &lt;a target="_blank" href="http://www.clickbank.com/blog/2011/04/26/important-guidelines-for-clickbank-vendors/"&gt;important
+guidelines for ClickBank vendors&lt;/a&gt; before submitting your product for
+approval.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shortcut: &lt;/strong&gt;If you don’t know much about web design and want a
+quick and easy way to get your Pitch Page and Thank You Page built and hosted,
+check out a product
+called &lt;a target="_blank" href="http://www.pitchmagic.com/"&gt;PitchMagic&lt;/a&gt;,
+which is sold by a ClickBank vendor. The software uses drag-and-drop
+functionality that follows many of the “best practices” of successful Pitch
+Pages but doesn’t require any knowledge of HTML.&lt;/p&gt;
+&lt;h3&gt;B. The Thank You Page &lt;/h3&gt;
+&lt;p&gt;The Thank You Page is the page customers will see after they purchase your
+product. Customers will only see this page if their purchase has been approved
+and the payment processed. In addition to thanking the customer for their
+purchase, your Thank You Page must include the following information:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Customers must be able to reach you if they have a question about your
+product need technical assistance after the purchase. Please include an email
+address, a link to your email address, or a contact us link on your Thank You
+Page.&lt;/li&gt;
+&lt;li&gt;A reminder to the customer that his or her credit card or bank statement
+will show a charge by ClickBank or CLKBANK*COM, rather than a reference to your
+specific product. This reminder should be prominent, as customers sometimes
+request refunds because they forget that ClickBank is handling the purchase.
+&lt;/li&gt;
+&lt;li&gt;Clear instructions on how to download or access the product, or information
+on how and when it will be delivered to them.&lt;/li&gt;
+&lt;li&gt;To ensure your use of a ClickBank trademark does not mislead consumers as to
+any sponsorship, affiliation or endorsement by ClickBank of your company,
+products or services, the following disclaimer needs to be at the bottom of any
+page with a ClickBank reference:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol&gt;ClickBank is the retailer of this product. CLICKBANK® is a registered
+trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk
+Street, Suite 200, Boise Idaho, 83706, USA and used by permission.  ClickBank’s
+role as retailer does not constitute an endorsement, approval or review of this
+product or any claim, statement or opinion used in promotion of this product.
+&lt;/ol&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;3. Make a Payment Link &lt;/h2&gt;
+&lt;p&gt;When a customer is on your Pitch Page and ready to buy your product, you need
+to provide them with a payment link that sends them to the ClickBank order form,
+where they can enter their payment information and complete the transaction.
+Once the payment is approved, the customer is taken to a page hosted by
+ClickBank that confirms their order by providing them with a unique receipt
+number. Customers are then prompted to click a final link that takes them from
+this confirmation page to your Thank You Page, where you provide them with the
+information detailed above. You’ll need to manually create the payment link to
+send customers to the order form, and then insert this payment link in HTML code
+on your Pitch Page. Put the HTML code for your payment link in the following
+format:&lt;/p&gt;
+
+&lt;pre&gt;http://ITEM.VENDOR.pay.clickbank.net&lt;/pre&gt;
+
+&lt;p&gt;Here is a sample of what the HTML code would look like:&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;a href=”http://ITEM.VENDOR.pay.clickbank.net” target=”cb”&amp;gt;CLICK HERE
+TO PURCHASE&amp;lt;/a&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;You must customize this HTML code to link to the order form for your specific
+product:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Replace ITEM with the item number of the product for sale. As you set up
+products to sell in your ClickBank account, each product will be assigned a
+unique number: 1, 2, 3, etc. If you are setting up your first product, the item
+number is 1.&lt;/li&gt;
+&lt;li&gt;Replace VENDOR with your ClickBank account nickname.&lt;/li&gt;
+&lt;li&gt;If you want, you can replace CLICK HERE TO PURCHASE with any text you
+prefer, or if you are familiar with HTML you can insert code to make the payment
+link an image.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+See &lt;a target="_blank" href="http://www.clickbank.com/help/vendor-help/vendor-basics/creating-a-payment-link/"&gt;Creating
+a Payment Link&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;h2&gt;4. Complete My Site Information Within Your Account &lt;/h2&gt;&lt;h3&gt;A. Designate a
+HopLink Target URL &lt;/h3&gt;
+&lt;p&gt;One of the biggest benefits of being a ClickBank vendor is having access to
+our huge affiliate network. Affiliates advertise our vendors’ products by
+enticing visitors to click on their affiliate link (also known as a HopLink) and
+“hop” over to your Pitch Page to make a purchase. The first step to taking
+advantage of our affiliate network is specifying the URL where affiliates should
+send potential customers, which we call the HopLink Target URL. Typically, the
+HopLink Target URL is the same URL as your Pitch Page, although this is not
+always the case. To designate a HopLink Target URL, follow the steps below:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Log in to your ClickBank account&lt;/li&gt;
+&lt;li&gt;Click the Account Settings tab&lt;/li&gt;
+&lt;li&gt;Click on My Site&lt;/li&gt;
+&lt;li&gt;Click Edit to the right of the Marketplace Information section&lt;/li&gt;
+&lt;li&gt;Enter your HopLink Target URL in the top field (&lt;strong&gt;note&lt;/strong&gt;: you
+can also edit your HopLink Target URL at any time by using this screen)&lt;/li&gt;
+&lt;li&gt;Enter Marketplace Information&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;B. Enter Marketplace Information &lt;/h3&gt;
+&lt;p&gt;After you’ve designated a HopLink Target URL, fill out details about your
+product to display in
+the&lt;a target="_blank" href="http://www.clickbank.com/marketplace.htm"&gt;ClickBank
+Marketplace&lt;/a&gt;. An accurate and compelling Marketplace description will help
+affiliates find your product and can convince them to promote it. If for any
+reason you do not wish to utilize our affiliate network, you do not need to fill
+out this information. For tips on writing a great Marketplace description,
+see &lt;a target="_blank" href="http://www.clickbank.com/help/vendor-help/vendor-basics/the-affiliate-network-and-you/#tips"&gt;The
+Affiliate Network and You&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;First, enter a Marketplace Title, which can be up to 70 characters long. Then
+enter a Marketplace Description of your site or product, which can be up to 250
+characters long. Next, specify the commission you will pay to affiliates if they
+successfully send a buying customer to your site. Please note that this
+commission rate applies to any one-time, digital products you sell, and to the
+initial sale of a recurring billing product. You can set different commission
+rates for physical products, one-click upsell offers, and rebills for recurring
+billing products.&lt;/p&gt;
+
+&lt;p&gt;On each affiliate-driven sale, this commission rate is taken out of the
+remainder left after ClickBank’s payment processing charges have been assessed.
+&lt;/p&gt;
+
+&lt;p&gt;Finally, choose the category and subcategory that best describes your product
+or site and click the Save Changes button. Recurring billing only: If you are
+selling recurring billing products, you will also choose a Product Title and a
+Product Description for each product sold through your account. The Product
+Title and Product Description will appear on the ClickBank order form for each
+individual &lt;a target="_blank" href="http://www.clickbank.com/help/vendor-help/vendor-guides/recurring-billing-subscription-and-membership-products/"&gt;recurring
+billing&lt;/a&gt; subscription. The Product Title and Product Description will not
+appear in the ClickBank Marketplace.&lt;/p&gt;
+&lt;h2&gt;5. Complete My Products Information within Your Account &lt;/h2&gt;
+&lt;p&gt;To enter important information about your product, such as the location of
+your Thank You page and your suggested retail price, click on the My Products
+link under the Account Settings tab. Choose whether you’d like to create a
+Standard Product
+or &lt;a target="_blank" href="http://www.clickbank.com/help/vendor-help/vendor-guides/recurring-billing-subscription-and-membership-products/"&gt;Recurring
+Billing Product&lt;/a&gt; by clicking on the appropriate tab, then click on Add New
+Product on the right side of the page. Enter the following information, based on
+which type of product you’re creating.&lt;/p&gt;
+&lt;h3&gt;A. Standard Products: &lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;The web address (or URL) of your Thank You Page&lt;/li&gt;
+&lt;li&gt;The item number of your product; this value can be alphanumeric&lt;/li&gt;
+&lt;li&gt;The suggested retail price of your product,which is subject to ClickBank
+approval&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;B. Recurring Billing Subscriptions: &lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;The web address (or URL) of your Thank You Page&lt;/li&gt;
+&lt;li&gt;The item number of your product; this value can be alphanumeric&lt;/li&gt;
+&lt;li&gt;Product Title (up to 70 characters; will appear on the ClickBank order form,
+not in the ClickBank Marketplace)&lt;/li&gt;
+&lt;li&gt;Product Description (up to 250 characters; will appear on the ClickBank
+order form, not in the ClickBank Marketplace)&lt;/li&gt;
+&lt;li&gt;Suggested Initial Price and Rebill Price (subject to ClickBank approval)
+&lt;/li&gt;
+&lt;li&gt;Frequency (how often the customer will be billed)&lt;/li&gt;
+&lt;li&gt;Duration (total number of times the customer will be billed over the life of
+your product, including the initial charge, even in the case of a trial
+purchase)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Once you’ve completed this information, it’s a good idea to add a Product
+Title (if you haven’t already) and a Product Image. You can add the latter by
+clicking on My Images under Account Settings, then clicking Add New Image. Your
+product image will be shown on the ClickBank order form. Products with images
+tend to convert better than products without them. Since ClickBank products are
+digitally delivered, many vendors create “virtual images” of the products by
+having an image of a book cover with their eBook’s title on it, or an image of a
+box of software for a software package, etc. Please note that images you submit
+will need to be approved by the ClickBank’s Business Services before they are
+live. For more information on product images and titles,
+see &lt;a target="_blank" href="http://www.clickbank.com/help/vendor-help/vendor-basics/selling-basics/product-images-and-titles/"&gt;Product
+Images and Titles&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;6. Test Your Payment Link &lt;/h2&gt;
+&lt;p&gt;Before submitting your product for approval, you must first place a test
+order for your product as if you were a customer. That way, you can make sure
+all of your links are working before potential customers try to buy. Testing
+your payment link also helps ensure your product is approved the first time by
+ClickBank’s Business Services.&lt;/p&gt;
+
+&lt;p&gt;To make a test purchase, you’ll need to use test credit card details that
+ClickBank provides to you. You will not be able to place test orders using a
+real credit card number for products that have not been submitted or approved.
+&lt;/p&gt;
+
+&lt;p&gt;To get this test credit card information, click the My Site link under the
+Account Settings tab. If you’ve created a product in the My Products tab, you
+should see a box near the bottom of the My Site page called Testing Your
+Products.&lt;/p&gt;
+
+&lt;p&gt;Next to Test Credit Card Number, click Generate New Card Number. This will
+create a credit card number, expiration date, and validation code you can use to
+place test orders. This card information will be valid for 24 hours, after which
+time it will expire and will no longer be usable for test orders.&lt;/p&gt;
+
+&lt;p&gt;Note: If you need to change the test credit card information for any reason,
+you can click Edit on the right side of the box, and then click Generate New
+Card Number. This will disable the old test credit card information so it can no
+longer be used to place test orders for your product.&lt;/p&gt;
+
+&lt;p&gt;Take note of the test credit card information, or leave the information open
+in your Internet browser.&lt;/p&gt;
+
+&lt;p&gt;To make a test purchase, go to your Pitch Page and click your payment link or
+Buy Now button as if you were a customer. On the ClickBank order form, enter any
+address information you want, along with the test credit card information we
+provided on the My Site page.&lt;/p&gt;
+
+&lt;p&gt;Once the order is submitted and approved, continue the order process as if
+you were a customer, to ensure you can access or download your product. It’s
+important to make sure you can access the product, as our Business Services will
+test this before approving your product for sale.&lt;/p&gt;
+
+&lt;p&gt;If you receive errors during a test purchase, here are some things to check:
+&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Is your payment link set up correctly?&lt;/li&gt;
+&lt;li&gt;Is your ClickBank nickname spelled correctly?&lt;/li&gt;
+&lt;li&gt;Did you enter the test credit card information correctly?&lt;/li&gt;
+&lt;li&gt;Do you have the correct item number listed in the payment link?&lt;/li&gt;
+&lt;li&gt;Have you saved your Thank You Page URL in the My Products section of your
+account?&lt;/li&gt;
+&lt;li&gt;For additional information, please see Creating a Payment Link.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;7. Request Product Approval &lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Important: &lt;/strong&gt;Please note that once a recurring billing product
+has been approved, you &lt;strong&gt;cannot&lt;/strong&gt;change any details for that
+product, such as price, description, etc. Before submitting a recurring billing
+product for approval, please verify that all of your product information is
+correct. Before you can start selling your product with ClickBank, it needs to
+be approved by ClickBank’s Business Services. Once you’ve completed the steps
+above, you can submit a product approval request by following the steps below:
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Log in to your ClickBank account&lt;/li&gt;
+&lt;li&gt;Click on the Accounts Settings tab&lt;/li&gt;
+&lt;li&gt;Click on My Products&lt;/li&gt;
+&lt;li&gt;Click on the Request Approval button under the Action column for each
+product that you want to submit for approval&lt;/li&gt;
+&lt;li&gt;Verify that the information on the Request Product Approval form is correct,
+and answer the required questions on the form&lt;/li&gt;
+&lt;li&gt;Click Submit Product Approval Request, which will send your request to
+ClickBank’s Business Services  for review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have submitted your request correctly, the Status column will change
+to Approval Requested for the product that is awaiting approval. Once your
+product has been approved, the Status column will show Approved. You will
+typically receive the results of your request within three to five business
+days, via email. &lt;/p&gt;
+&lt;h2&gt;8. Pay One-Time $49.95 Activation Charge &lt;/h2&gt;
+&lt;p&gt;Once you receive the approval email for your first product, you will need to
+pay your one-time $49.95 activation charge. You’ll receive instructions from
+Business Services on how to log in and pay the activation charge. You can pay by
+credit/debit card, PayPal, or money order. Once your payment has gone through
+successfully, your site status on the My Site page will change to Activated, and
+you can begin selling your approved products. Please note that you cannot pay
+the activation charge until your product has been approved and you have received
+notification from Business Services.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advanced users: &lt;/strong&gt;If you would like to delay your Marketplace
+listing until a specific date (for example, if you have a scheduled “launch
+date” for your product) you can wait until the day before you wish to launch to
+pay your activation fee. Once your product is activated, it will be live in our
+Marketplace within 24 hours. &lt;/p&gt;
+&lt;h2&gt;9. You’re Done! &lt;/h2&gt;
+&lt;p&gt;Once your product is activated, it will be listed in the ClickBank
+Marketplace and ready for affiliates to promote. You can also begin accepting
+orders through the ClickBank Order Form.&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>get started as a vendor</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="guides">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>80d2fb39-5c23-46ac-ac13-392aad7400e8</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>2e5044b5-e2cd-4f24-b74a-8049f882fc13</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Guides</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="going-global-with-your-product">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>6bca4f06-b97a-47e2-8717-ddd2ce312b89</sv:value>
+        </sv:property>
+        <sv:node sv:name="going-global-with-your-product">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>d05783dd-9bb1-4d08-9c60-2727bd8bc48e</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/vendor/guides/going-global-with-your-product</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>Learn how to internationalize your pitch pages and attract more of the worlds consumers</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>5 sales, productlist</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Going Global With Your Product</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-25T12:03:33.559-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T12:04:51.828-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T12:04:58.055-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>a15d2265-65d9-4d2e-a132-ce90d055cf57</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;Whether you’re a veteran ClickBank vendor with a successful product in
+English or a new vendor who has a product that would appeal to an international
+audience, offering your product in a foreign language is a great way to tap into
+huge new markets for your product. ClickBank makes it easy by allowing you to
+offer products in English, French, Spanish, German, Italian and Portuguese. In
+addition, we can accept payments in 31 different currencies, which appeals to
+customers and makes purchasing easier for them. At the end of this article, be
+sure to read how you can localize your Pitch Page into multiple languages
+automatically, based on where your visitors are from.&lt;/p&gt;
+&lt;h2&gt;How Multi-Lingual and Multi-Currency Works &lt;/h2&gt;&lt;h3&gt;Digital Product or
+Service &lt;/h3&gt;
+&lt;p&gt;ClickBank requires that your digital product or service is provided in the
+language specified. It is also recommended that your product Pitch Page be
+presented in that language to reduce customer confusion and ultimately prevent
+high return and chargeback rates.&lt;/p&gt;
+&lt;h3&gt;Thank You Page &lt;/h3&gt;
+&lt;p&gt;ClickBank requires that your Thank You Page content is presented in the
+language specified for your product to reduce customer confusion and ultimately
+prevent high return and chargeback rates.&lt;/p&gt;
+&lt;h3&gt;Customer Service &lt;/h3&gt;
+&lt;p&gt;ClickBank will provide initial phone and email customer service in the
+language specified for the product. Vendors must be capable of servicing
+technical support requests or customer inquiries in the language specified for
+the product.&lt;/p&gt;
+&lt;h3&gt;Product Types &lt;/h3&gt;
+&lt;p&gt;Multi-lingual capability is available for all product types (e.g. standard
+&amp;amp; recurring billing products).&lt;/p&gt;
+&lt;h3&gt;Payment Methods &lt;/h3&gt;
+&lt;p&gt;The payment methods (PayPal &amp;amp; Credit Card) offered to customers during
+the checkout process may vary based on your account Order Form Control settings.
+&lt;/p&gt;
+&lt;h3&gt;Currencies &lt;/h3&gt;
+&lt;p&gt;ClickBank retails internationally by accepting the following currencies:&lt;/p&gt;
+
+&lt;table style="font-family: Verdana; border-collapse: collapse; margin: 1px; width: auto; line-height: normal; text-align: justify; " cellpadding="0" border="0" cellspacing="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;table style="border-collapse: collapse; margin: 1px; width: auto; background-color: transparent; " cellpadding="0" border="0" cellspacing="0"&gt;
+&lt;tbody&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;ARS&lt;/td&gt;
+&lt;td&gt;Argentinean Peso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;AUD&lt;/td&gt;
+&lt;td&gt;Australian Dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;BRL&lt;/td&gt;
+&lt;td&gt;Brazilian Real&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CAD&lt;/td&gt;
+&lt;td&gt;Canadian Dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;CHF&lt;/td&gt;
+&lt;td&gt;Swiss Franc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;CLP&lt;/td&gt;
+&lt;td&gt;Chilean Peso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;CNY&lt;/td&gt;
+&lt;td&gt;Chinese Yuan&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;COP&lt;/td&gt;
+&lt;td&gt;Columbian Peso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;CZK&lt;/td&gt;
+&lt;td&gt;Czech Koruna&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DKK&lt;/td&gt;
+&lt;td&gt;Danish Krone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;EUR&lt;/td&gt;
+&lt;td&gt;Euro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GBP&lt;/td&gt;
+&lt;td&gt;British Pound&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;HKD&lt;/td&gt;
+&lt;td&gt;Hong Kong Dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;HUF&lt;/td&gt;
+&lt;td&gt;Hungarian Forint&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;IDR&lt;/td&gt;
+&lt;td&gt;Indonesian Rupiah&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;INR&lt;/td&gt;
+&lt;td&gt;Indian Rupee&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table style="border-collapse: collapse; margin: 1px; width: auto; background-color: transparent; " cellpadding="0" border="0" cellspacing="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;JPY&lt;/td&gt;
+&lt;td&gt;Japanese Yen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;KRW&lt;/td&gt;
+&lt;td&gt;South Korean Won&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;MXN&lt;/td&gt;
+&lt;td&gt;Mexican Peso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;MYR&lt;/td&gt;
+&lt;td&gt;Malaysian Ringgit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NOK&lt;/td&gt;
+&lt;td&gt;Norwegian Kroner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;NZD&lt;/td&gt;
+&lt;td&gt;New Zealand Dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;PHP&lt;/td&gt;
+&lt;td&gt;Philippines Peso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;PLN&lt;/td&gt;
+&lt;td&gt;Polish Zloty&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;RUB&lt;/td&gt;
+&lt;td&gt;Russian Ruble&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SEK&lt;/td&gt;
+&lt;td&gt;Swedish Krona&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;SGD&lt;/td&gt;
+&lt;td&gt;Singapore Dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;THB&lt;/td&gt;
+&lt;td&gt;Thai Baht&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="30"&gt;TRY&lt;/td&gt;
+&lt;td&gt;Turkish Lira&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;USD&lt;/td&gt;
+&lt;td&gt;United States Dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ZAR&lt;/td&gt;
+&lt;td&gt;South African Rand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td/&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The ClickBank multi-currency feature is available on the Clickbank Order Form
+and is automatically enabled for all accounts and products.&lt;/p&gt;
+
+&lt;p&gt;During product setup, vendors specify a default currency for their product.
+ClickBank will then present the product in the specified default currency for
+customers in a geographic location that utilizes that currency. Customers from
+other geographic locations will see a converted currency most appropriate for
+their location.&lt;/p&gt;
+
+&lt;p&gt;For example, a vendor with a French audience may choose Euros as his default
+currency and display the product price in Euros on his pitch page. If a
+potential customer located in France clicks to purchase the product, ClickBank
+will display the price in Euros on the order form. However, if a potential
+customer located in New Zealand clicks to purchase the product, ClickBank will
+convert and display the price in New Zealand Dollars on the order form.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, this flexibility increases the likelihood of making a sale by
+allowing vendors to specifically target their audience, while still allowing all
+potential buyers to make purchases in their local currency.&lt;/p&gt;
+
+&lt;p&gt;All transactions are converted to USD and applied to your account at the time
+of purchase. The exchange rate is updated daily. For more information, please
+see our &lt;a href="http://www.clickbank.com/accounting.html"&gt;Accounting
+Policy.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Setting Up Multi-Lingual and Multi-Currency Products &lt;/h2&gt;
+&lt;p&gt;To implement a new non-English product with a default currency, please follow
+these steps:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to My Account and log in to your ClickBank account&lt;/li&gt;
+&lt;li&gt;Click on the Account Settings tab&lt;/li&gt;
+&lt;li&gt;Click on My Products&lt;/li&gt;
+&lt;li&gt;Click on either the Standard Products or Recurring Billing Products tab&lt;/li&gt;
+&lt;li&gt;Click the Add New Product button&lt;/li&gt;
+&lt;li&gt;Add the necessary information to the Product Editor window&lt;/li&gt;
+&lt;li&gt;Select the desired language and currency for the product&lt;/li&gt;
+&lt;li&gt;The language chosen is used for all customer-facing ClickBank
+communications. Additionally, the currency chosen is displayed on the order form
+for any customer in a related geographic location. Customers from other
+geographic locations will see a converted currency most appropriate for their
+location.&lt;/li&gt;
+&lt;li&gt;Click the Save Changes button&lt;/li&gt;
+&lt;li&gt;Depending on the product type and your current approval status, your new
+product may or may not require product approval.&lt;/li&gt;
+&lt;li&gt;Place a test purchase:&lt;/li&gt;
+&lt;li&gt;Click on My Site under the Account Settings tab.&lt;/li&gt;
+&lt;li&gt;In the Testing Your Products box, click Generate New Card Number.&lt;/li&gt;
+&lt;li&gt;This will create a credit card number, expiration date, and validation code
+you can use to place test orders. This card information will be valid for 24
+hours, after which time it will expire and will no longer be usable for test
+orders.&lt;/li&gt;
+&lt;li&gt;Take note of the credit card information.&lt;/li&gt;
+&lt;li&gt;Go to the Pitch Page for the product you want to test, and click through the
+payment link, which should take you to the ClickBank order form.&lt;/li&gt;
+&lt;li&gt;Enter information into each field of the order form. You can use any address
+information you want, but enter the test credit card details you created.&lt;/li&gt;
+&lt;li&gt;Verify the information on the order confirmation page. Click through to
+download your product, which should take you to the correct Thank You Page URL
+for the product you are testing.&lt;/li&gt;
+&lt;li&gt;Request product approval (for products that require it) by clicking Submit
+Product Approval Request in the Actions column next to your product listing
+(This is the Request Approval
+icon: &lt;img title="Request Approval Icon" height="16" width="15" src="http://www.clickbank.com/images/icons/request_approval.gif"/&gt;)
+&lt;/li&gt;
+&lt;li&gt;Fill out the Request Product Approval form and click the Submit Product
+Approval Request button&lt;/li&gt;
+&lt;li&gt;The system will change the Status column to Approval Requested&lt;/li&gt;
+&lt;li&gt;ClickBank Business Services will review your site and product information
+and will approve or disapprove your product&lt;/li&gt;
+&lt;li&gt;If approved, the system will update the product status to Approved&lt;/li&gt;
+&lt;li&gt;If disapproved, the system will update the product status to Disapproved
+&lt;/li&gt;
+&lt;li&gt;Your product is now all set up and ready for ClickBank to sell!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;What the Customer Sees &lt;/h2&gt;
+&lt;p&gt;ClickBank communicates with you and the customer each step of the way.&lt;/p&gt;
+
+&lt;p&gt;This section outlines how customers will interact with both your product or
+service and ClickBank during the purchase of a non-English language or non-USD
+currency product.&lt;/p&gt;
+
+&lt;p&gt;The following steps occur when a customer purchases a non-English or non-USD
+currency product:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The customer arrives at your product’s Pitch Page and clicks to buy your
+non-English language or non-USD currency product.&lt;/li&gt;
+&lt;li&gt;The customer is taken to the ClickBank Order Form where he is required to
+enter his payment information. The Order Form is displayed in the language and
+currency you’ve specified during product creation, unless the customer is in a
+geographic location that uses a different currency.&lt;/li&gt;
+&lt;li&gt;The customer clicks the Pay Now button.&lt;/li&gt;
+&lt;li&gt;Once the customer’s payment information is authorized, he is sent to the
+order confirmation page, which is presented in the language selected during
+product setup and reflects the currency used to purchase. The order confirmation
+page then leads to your language-specific Thank You Page.&lt;/li&gt;
+&lt;li&gt;ClickBank delivers an email notification to the customer summarizing the
+purchase in the language specified during the product setup and reflecting the
+currency used to purchase. All customer-facing notifications are provided in the
+language specified for the product.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;What the Vendor Sees &lt;/h2&gt;
+&lt;p&gt;This section outlines what you can expect to see during a customer’s purchase
+of your language or currency specific product or service:&lt;/p&gt;
+
+&lt;p&gt;Note: All transactions are converted to USD and applied to your account at
+the time of purchase.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Once the customer’s payment information is authorized, ClickBank delivers an
+English email notification to you, alerting you of the purchase. ClickBank also
+creates an entry in Transaction Reporting which highlights the currency used
+during the purchase and the amount you earned in USD.&lt;/li&gt;
+&lt;li&gt;If a customer requires technical support, ClickBank will deliver an English
+email notification to you with the customer’s comments in either the header or
+footer of the notifications. The customer’s comments are provided in the
+language received.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;What the Affiliate Sees &lt;/h2&gt;
+&lt;p&gt;
+The &lt;a target="_blank" href="http://www.clickbank.com/marketplace.htm"&gt;Marketplace&lt;/a&gt; features
+a filter for language, allowing affiliates to easily find vendors offering
+multi-lingual products.&lt;/p&gt;
+&lt;h2&gt;Localizing Your Pitch Page Automatically &lt;/h2&gt;
+&lt;p&gt;A great way to improve your site’s conversion rates among international
+customers is to have your Pitch Page automatically displayed in the appropriate
+language when a visitor arrives. To do this, you need to first translate your
+page into multiple languages, and then put PHP code in place that will display a
+particular version of your site based on the visitor’s browser language
+settings. The following is a PHP script we created that should help you
+accomplish this. You’ll need to customize it to work with your site.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;?php&lt;/p&gt;
+
+&lt;p&gt;$language = $_SERVER["HTTP_ACCEPT_LANGUAGE"];&lt;/p&gt;
+
+&lt;p&gt;if(preg_match(‘/^de.*/’, $language)) { // imports german content page&lt;/p&gt;
+
+&lt;p&gt;include(“german.html”);&lt;/p&gt;
+
+&lt;p&gt;} else if (preg_match(‘/^en.*/’, $language)) { //imports english content page
+&lt;/p&gt;
+
+&lt;p&gt;include(“english.html”);&lt;/p&gt;
+
+&lt;p&gt;} else { // imports english content page when language is not english or
+german&lt;/p&gt;
+
+&lt;p&gt;include(“english.html”);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;?&amp;gt;&lt;/p&gt;
+&lt;br/&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Going Global With Your Product</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="tools">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>2b93d5cb-e941-4e91-89f2-d19768ea0748</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>2c1d0ac9-6dbc-40f0-9e68-e193dfb15444</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Tools</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="resources">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>fdf247d7-915d-449b-9214-0438a05a55de</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>c0cb9636-af52-4e8c-bd91-79bc178dfadf</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Resources</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="account">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:harddocument</sv:value>
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c459c513-fee1-4cf7-b00a-59e41642940f</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>c882b5dc-b808-4bae-93dd-513e58508daa</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>en</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippotranslation:translations">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippotranslation:translations</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Account</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="basics">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>a3df7220-788d-4095-bc75-d23a9823b5d6</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>73ab2983-eee6-414a-8d59-f446590f9c20</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Basics</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="reporting">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>5ca2f1de-400e-4f73-bcda-cd23db2d98c4</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>715b8d7c-3141-4271-8318-8ff249a06095</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Reporting</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="tools">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippostd:folder</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+        <sv:value>hippo:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>b2aca42b-7516-41bd-9acb-fc2a5f5b1c07</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String"/>
+      <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+        <sv:value>new-translated-folder</sv:value>
+        <sv:value>new-document</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>54569cc7-60c7-43ac-98a2-7fb4d9e9f2d5</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="hippo:translation">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:translation</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:language" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="hippo:message" sv:type="String">
+          <sv:value>Tools</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="clickbank-api">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>2ff271ac-a272-442c-ab9a-268646d8cef4</sv:value>
+        </sv:property>
+        <sv:node sv:name="clickbank-api">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>fa551d75-16df-46fe-aafa-471e1b1a7571</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/account/tools/clickbank-api</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value>Leverage the power of your own developers and the Clickbank API</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value>50k sales, mysite</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>Clickbank API</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-06-25T11:59:53.412-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-06-25T12:00:35.852-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-06-25T12:00:39.873-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>20beb418-f18e-49ca-958e-0914e8e881d5</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;&lt;span style="color: rgb(189, 30, 44); "&gt;&lt;strong&gt;&lt;em&gt;Please note, the ClickBank API is for use by those with significant development experience.&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The ClickBank API makes it possible for a wide range of computer programs to securely access ClickBank account information on behalf of ClickBank account owners. Some of the functions available to users of the API include the ability to:
+&lt;/p&gt;
+&lt;ul type="disc" style="font-family: Verdana; line-height: normal; text-align: justify; "&gt;
+  &lt;li&gt;Request a refund for a customer’s purchase&lt;/li&gt;
+  &lt;li&gt;Request a cancelation for a customer’s subscription&lt;/li&gt;
+  &lt;li&gt;Retrieve a list of transactions in a ClickBank account for a given timeframe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The possibilities for programs that make use of the ClickBank API are many and include: a dashboard that shows ClickBank data in addition to data from accounts with other online services, a subscription management tool, and an analytics package that shows data about trends in sales for a particular ClickBank account. All of these applications and more are possible with the new ClickBank API. Plus they could be sold in the ClickBank Marketplace as well!
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The ClickBank Service API is built on a REST architecture and provides a reliable and secure http based mechanism to retrieve data.
+&lt;/p&gt;
+&lt;h2 style="font-family: Verdana; color: rgb(189, 30, 44); margin-top: 3px; margin-bottom: 3px; font-size: 1.5em; line-height: normal; text-align: justify; "&gt;REST
+&lt;/h2&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;REST is an architecture style pioneered by Roy Fielding, who was one of the principal authors of the HTTP protocol in his dissertation- “&lt;a title="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm" href="http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;Architectural Styles and the Design of Network-based Software Architectures&lt;/a&gt;.” A brief introduction to REST can be found in the Wikipedia article&lt;a href="http://en.wikipedia.org/wiki/Representational_State_Transfer" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;Representational State Transfer&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;&lt;em&gt;&lt;/em&gt;
+&lt;/h3&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Versioning
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The current version of ClickBank’s Service API is: 1.2.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The version information is part of the URL to access the services. This provides the following benefits:
+&lt;/p&gt;
+&lt;ul class="unIndentedList" style="font-family: Verdana; line-height: normal; text-align: justify; "&gt;
+  &lt;li&gt;Clear information about what version of the API is being used&lt;/li&gt;
+  &lt;li&gt;An easy to understand upgrade path when new API versions are announced&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The ClickBank Service API is guaranteed to be backwards compatible up to three releases. For example, when version 4.0 of the API is released, version 1.2 will still function.
+&lt;/p&gt;
+&lt;h2 style="font-family: Verdana; color: rgb(189, 30, 44); margin-top: 3px; margin-bottom: 3px; font-size: 1.5em; line-height: normal; text-align: justify; "&gt;Infrastructure
+&lt;/h2&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;ClickBank’s REST API is based on&amp;nbsp;&lt;a href="http://jcp.org/en/jsr/detail?id=311" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;JSR-311&lt;/a&gt;&amp;nbsp;– The Java API for RESTful Web Services. This is an implementation detail for the ClickBank Service API. The services themselves are HTTP based and implementation agnostic; therefore, any web client (.NET, PHP, Java, Python, Ruby, etc) can utilize the services.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;While ClickBank does not endorse any REST tools for development, we do find&amp;nbsp;&lt;a href="http://code.google.com/p/rest-client/" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;RestClient&lt;/a&gt;&amp;nbsp;to be very helpful while developing and testing RESTful web services.
+&lt;/p&gt;
+&lt;h2 style="font-family: Verdana; color: rgb(189, 30, 44); margin-top: 3px; margin-bottom: 3px; font-size: 1.5em; line-height: normal; text-align: justify; "&gt;Request Header
+&lt;/h2&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;ClickBank’s Service API Header consists of security, output, and page parameters. The ClickBank Service API only accepts query parameters; requests built on form based (post) parameters are ignored.
+  &lt;br /&gt;The HTTP spec indicates that a URL cannot be more than 2k in length. API developers should ensure that the length of the API rest url’s are less than 2000 characters.
+&lt;/p&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Certification
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;With some programming languages the ClickBank’s Service API will require your system to possess a certificate for the following domain:
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;*.clickbank.com
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;To acquire the certificate, simply go to the following URL, double click the authentication lock in the lower right-hand corner of your browser, and save the certificate to your system
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;&lt;a href="https://api.clickbank.com/rest/1.2/orders" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/orders&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;&lt;em&gt;&lt;/em&gt;
+&lt;/h3&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Security
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;ClickBank’s Service API methods are secure and will return a 403 [Forbidden] status code if accessed without the right credentials. Secure access to the API requires an&amp;nbsp;&lt;strong&gt;Authorization&lt;/strong&gt;header parameter containing the following keys:
+&lt;/p&gt;
+&lt;ul type="disc" style="font-family: Verdana; line-height: normal; text-align: justify; "&gt;
+  &lt;li&gt;Developer key – The Developer key grants the user the “ROLE_HAS_DEVELOPER_KEY” role.&lt;/li&gt;
+  &lt;li&gt;Clerk user key – The Clerk key grants the user either the “ROLE_API_ORDER_READ” or “ROLE_API_ORDER_WRITE” role.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Conceptually, a developer key is a token which is generally used to allow access to the API’s; while a clerk user API key is generally associated with a particular user.&amp;nbsp; When creating the header parameter with both roles, each value must be separated by a colon.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Example:
+&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="0" width="493" style="font-family: Verdana; border-collapse: collapse; margin: 1px; width: auto; line-height: normal; text-align: justify; "&gt;&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td width="115" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;&lt;strong&gt;Authorization&lt;/strong&gt;&lt;/td&gt;
+    &lt;td width="378" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;DEV-F7F8023A486E9A9602FFDA2765E1925:API-9870acb8d96f8bd18c2eb70725b01fe4b98ece58&lt;/td&gt;
+  &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Some of the ClickBank Service APIs (most notably the sandbox) do not require both keys. The Supported API documentation lists the required roles to access a particular service. If only the developer key is required, a colon in the header parameter is not necessary.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Example:
+&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="0" width="451" style="font-family: Verdana; border-collapse: collapse; margin: 1px; width: auto; line-height: normal; text-align: justify; "&gt;&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td width="115" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;&lt;strong&gt;Authorization&lt;/strong&gt;&lt;/td&gt;
+    &lt;td width="336" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;DEV-F7F8023A486E9A9602FFDA2765E1925&lt;/td&gt;
+  &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;To acquire Developer and Clerk keys, simply login to your ClickBank account and go to the Account Settings tab. Then, click “edit” in the Developer and Clerk API Key areas.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Each key must be approved, present, and active for successful authentication to occur.
+&lt;/p&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Output
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;ClickBank’s Service API supports the following output formats:
+&lt;/p&gt;
+&lt;ul type="disc" style="font-family: Verdana; line-height: normal; text-align: justify; "&gt;
+  &lt;li&gt;XML&lt;/li&gt;
+  &lt;li&gt;JSON&lt;/li&gt;
+  &lt;li&gt;CSV (only work with the Orders API)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Request the output format by including an&amp;nbsp;&lt;strong&gt;Accept&lt;/strong&gt;&amp;nbsp;parameter in the http header. If an unsupported format is requested the server will provide a 500 [Internal Server Error] status code.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Example:
+&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="0" width="451" style="font-family: Verdana; border-collapse: collapse; margin: 1px; width: auto; line-height: normal; text-align: justify; "&gt;&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td width="103" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;&lt;strong&gt;Accept&lt;/strong&gt;&lt;/td&gt;
+    &lt;td width="348" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;application/xml&lt;/td&gt;
+  &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Pagination
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The API will never return more than a 100 rows for any service call. For requests that contain more than 100 rows of data, the API will return the first 100 rows with a status code of 206 [Partial Content]. To retrieve the additional pages, the developer must include a&amp;nbsp;&lt;strong&gt;Page&lt;/strong&gt;&amp;nbsp;header parameter indicating which page of the result is desired.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Example:
+&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="0" width="451" style="font-family: Verdana; border-collapse: collapse; margin: 1px; width: auto; line-height: normal; text-align: justify; "&gt;&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td width="103" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;&lt;strong&gt;Page&lt;/strong&gt;&lt;/td&gt;
+    &lt;td width="348" valign="top" style="font-family: Verdana; background-color: transparent; border: none; text-align: left; "&gt;3&lt;/td&gt;
+  &lt;/tr&gt;&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Once the last page is accessed, the service will return a 200 [OK] instead of a 206 [Partial Content].
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;&lt;strong&gt;&lt;/strong&gt;
+&lt;/p&gt;
+&lt;h2 style="font-family: Verdana; color: rgb(189, 30, 44); margin-top: 3px; margin-bottom: 3px; font-size: 1.5em; line-height: normal; text-align: justify; "&gt;Supported APIs
+&lt;/h2&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;For version 1.2, the following API’s will be supported:
+&lt;/p&gt;
+&lt;ul type="disc" style="font-family: Verdana; line-height: normal; text-align: justify; "&gt;
+  &lt;li&gt;&lt;strong&gt;Orders API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://api.clickbank.com/rest/1.2/orders" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/orders&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Orders API allows you to get order information by receipt or date/time parameters.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shipping API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://api.clickbank.com/rest/1.2/shipping" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/shipping&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Shipping API allows you to get shipping information for one or many physical good orders by receipt or date/time parameters.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tickets API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://api.clickbank.com/rest/1.2/tickets" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/tickets&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Ticket API allows you to update an order’s status to returned or canceled thru the creation of a transaction ticket. Additionally, you may search for existing tickets by user.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sandbox API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://sandbox.clickbank.com/rest/1.2/sandbox" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/rest/1.2/sandbox&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Sandbox API provides an environment to create test accounts, developer keys, and orders. Once established, it can be used to test the tickets and order API’s.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Upsell API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://api.clickbank.com/rest/1.2/upsells" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/upsells&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Upsell API allows qualified users to create upsells via the API.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ship Notice API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://api.clickbank.com/rest/1.2/shipping/shipnotice" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/shipping/shipnotice&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Ship Notice API is a child of the shipping API and allows for ship notice generation.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sandbox Product Creation API:&lt;/strong&gt;&lt;a href="https://sandbox.clickbank.com/rest/1.2/sandbox/product" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/rest/1.2/sandbox/product&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Sandbox Product Creation API is a child of the sandbox API and allows users to create products in the sandbox environment.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quickstats API:&amp;nbsp;&lt;/strong&gt;&lt;a href="https://api.clickbank.com/rest/1.2/quickstats" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://api.clickbank.com/rest/1.2/quickstats&lt;/a&gt;
+  &lt;ul type="disc"&gt;
+    &lt;li&gt;The Quickstats API provides stats about the user’s account.&lt;/li&gt;
+  &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;Each ClickBank API is self-describing. For service description details, simply access the API URL.
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;&lt;strong&gt;&lt;/strong&gt;
+&lt;/p&gt;
+&lt;h2 style="font-family: Verdana; color: rgb(189, 30, 44); margin-top: 3px; margin-bottom: 3px; font-size: 1.5em; line-height: normal; text-align: justify; "&gt;Additional Tools
+&lt;/h2&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Debugging
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The ClickBank API provides a debug web service [&lt;strong&gt;/rest/1.2/debug&lt;/strong&gt;]. The service prints out the request context information [including the security context information], which can be very useful when correcting REST API issues.
+&lt;/p&gt;
+&lt;h3 style="font-family: Verdana; padding-top: 3px; padding-bottom: 3px; margin-top: 0px; margin-bottom: 0px; color: rgb(155, 133, 121); font-size: 1.25em; line-height: normal; text-align: justify; "&gt;Code Samples
+&lt;/h3&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The following code samples demonstrate how a developer might utilize the APIs:
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;A)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_10_examples/api_example.csharp" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;C#&lt;/a&gt;&amp;nbsp;–&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_12_examples/api_example.csharp" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/api_12_examples/api_example.csharp&lt;/a&gt;
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;B)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_10_examples/api_example.java" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;Java&lt;/a&gt;&amp;nbsp;–&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_12_examples/api_example.java" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/api_12_examples/api_example.java&lt;/a&gt;
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;C)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_10_examples/api_example.php" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;PHP&lt;/a&gt;&amp;nbsp;–&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_12_examples/api_example.php" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/api_12_examples/api_example.php&lt;/a&gt;
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;D)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_10_examples/api_example.py" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;Python&lt;/a&gt;&amp;nbsp;–&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_12_examples/api_example.py" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/api_12_examples/api_example.py&lt;/a&gt;
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;E)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_10_examples/api_example.rb" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;Ruby&lt;/a&gt;&amp;nbsp;–&amp;nbsp;&lt;a href="https://sandbox.clickbank.com/api_12_examples/api_example.rb" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;https://sandbox.clickbank.com/api_12_examples/api_example.rb&lt;/a&gt;
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;For ETL developers who wish to use the Talend Open Studio IDE, one of our developers has created tools that can assist with Java development. They can be downloaded for free here:
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;&lt;a href="http://talendforge.org/exchange/tos/" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;http://talendforge.org/exchange/tos/&lt;/a&gt;&amp;nbsp;(Click on link and then type in clickbank in Category Search box, then click Filter)
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;The following post shows how to use these tools:
+&lt;/p&gt;
+&lt;p style="font-family: Verdana; font-size: 12px; line-height: normal; text-align: justify; "&gt;&lt;a href="http://talendforge.org/forum/viewtopic.php?id=12061" target="_blank" style="cursor: pointer; color: rgb(189, 30, 44); text-decoration: none; "&gt;http://talendforge.org/forum/viewtopic.php?id=12061&lt;/a&gt;
+&lt;/p&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Clickbank API</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="referral-program">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:handle</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:hardhandle</sv:value>
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>1f5310f7-a1b2-4940-adda-5fef79c61bf8</sv:value>
+        </sv:property>
+        <sv:node sv:name="referral-program">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippocms:textdocument</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+            <sv:value>hippo:harddocument</sv:value>
+            <sv:value>hippotranslation:translated</sv:value>
+          </sv:property>
+          <sv:property sv:name="jcr:uuid" sv:type="String">
+            <sv:value>3affd040-aa4a-4ee6-a3d8-f816cf9a42e6</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+            <sv:value>live</sv:value>
+            <sv:value>preview</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+            <sv:value>help/account/tools/referral-program</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippocms:summary" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippocms:tag" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippocms:title" sv:type="String">
+            <sv:value>ClickBank Referral Program</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:holder" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:state" sv:type="String">
+            <sv:value>published</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+            <sv:value>live</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+            <sv:value>2012-07-03T12:38:20.127-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+            <sv:value>2012-07-03T12:39:05.448-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+            <sv:value>admin</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+            <sv:value>2012-07-03T12:39:26.964-06:00</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:id" sv:type="String">
+            <sv:value>b2f0b242-9df6-49b8-a002-17b3e85db1c6</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippotranslation:locale" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippotranslation:translations">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippotranslation:translations</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippocms:body">
+            <sv:property sv:name="jcr:primaryType" sv:type="Name">
+              <sv:value>hippostd:html</sv:value>
+            </sv:property>
+            <sv:property sv:name="hippostd:content" sv:type="String">
+              <sv:value>&lt;html&gt;
+&lt;body&gt;
+
+&lt;p&gt;You can earn extra commission by referring additional product vendors to
+ClickBank. At this time, we do not have a referral program for referring new
+affiliates.&lt;/p&gt;
+
+&lt;p&gt;When you refer a vendor who activates their account you earn 20% of the
+$49.95 activation charge. Additionally, you earn 5% of ClickBank’s typical
+markup of each sale that your recruited vendor makes for one year.&lt;/p&gt;
+
+&lt;p&gt;ClickBank’s typical markup on every sale is $1 + 7.5% of the sale price, so
+you earn about $0.09 to $0.99 on every sale. See the referral commissions chart
+below:&lt;/p&gt;
+
+&lt;p&gt;$10      sale      =          $0.09 commission &lt;br/&gt;
+$20      sale      =          $0.13 commission &lt;br/&gt;
+$30      sale      =          $0.16 commission &lt;br/&gt;
+$40      sale      =          $0.20 commission &lt;br/&gt;
+$50      sale      =          $0.24 commission &lt;br/&gt;
+$100    sale      =          $0.42 commission &lt;br/&gt;
+$150    sale      =          $0.61 commission &lt;br/&gt;
+$200    sale      =          $0.80 commission &lt;br/&gt;
+$250    sale      =          $0.99 commission&lt;/p&gt;
+
+&lt;p&gt;Here are the steps to get started using the ClickBank Referral Program:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Start promoting ClickBank on your site&lt;/li&gt;
+&lt;li&gt;Use the special Referral HopLink (i.e., reseller link shown below) to drive
+new vendors to ClickBank sign up&lt;/li&gt;
+&lt;li&gt;When new vendors register via your Referral HopLink, you earn a 22%
+commission on the activation charge paid when the vendor activates their account
+&lt;/li&gt;
+&lt;li&gt;In addition, you automatically earn 5% of ClickBank’s markup on every sale
+made by that vendor for a full year after their initial signup date&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Referred vendors are tracked when they create an account after clicking on
+your Referral HopLink. Referral HopLinks should be in the following format:&lt;/p&gt;
+
+&lt;p&gt;http://AFFILIATE.reseller.hop.clickbank.net&lt;/p&gt;
+
+&lt;p&gt;Here it is in HTML:&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;a href=”http://AFFILIATE.reseller.hop.clickbank.net”
+target=”_blank”&amp;gt;CLICK HERE&amp;lt;/a&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;To make it work:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Replace AFFILIATE with your ClickBank nickname.&lt;/li&gt;
+&lt;li&gt;Replace CLICK HERE with any promotional text or image you prefer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The 20% of our activation charge ($9.99) that you earn when a referred vendor
+signs up will appear under transaction type “bons-0001″ in the transaction
+detail. Your 5% of our markup for all sales made by that vendor for a full year
+appear as transaction type “bons-0001″ in the transaction detail.&lt;/p&gt;
+&lt;h2&gt;FAQ &lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Q: Does the vendor get paid less because I am earning a commission on
+his sales?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;No. ClickBank pays all referral commissions. For that
+reason, you cannot refer yourself or anyone who already has an account with us.
+&lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippo:translation</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Referral Program</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="targeted-help-titles">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:hardhandle</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>af59b2c2-61b1-4e73-a152-7661cb532045</sv:value>
+    </sv:property>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Targeted Help Titles</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="targeted-help-titles">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippocms:targetedhelpdocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>hippo:harddocument</sv:value>
+        <sv:value>hippotranslation:translated</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>90c89971-6990-4f3e-856d-d183036177aa</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>help/targeted-help-titles</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippocms:50kSalesTitle" sv:type="String">
+        <sv:value>Advanced Help</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippocms:5SalesTitle" sv:type="String">
+        <sv:value>Boost Sales</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippocms:newMemberTitle" sv:type="String">
+        <sv:value>Help the n00b</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:holder" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2012-06-20T12:51:13.240-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2012-06-20T12:54:29.758-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2012-06-20T12:54:33.743-06:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a105c866-28f2-4f8b-9a9e-93c04bc732a5</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="hippotranslation:translations">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippotranslation:translations</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:h="http://www.onehippo.org/jcr/xmlimport" sv:name="cms" h:merge="combine">
+  <sv:node sv:name="cms-services" h:merge="combine">
+    <sv:node sv:name="localeProviderService" h:merge="combine">
+      <sv:node sv:name="pt">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>frontend:pluginconfig</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>hippo:translated</sv:value>
+        </sv:property>
+        <sv:property sv:name="country" sv:type="String">
+          <sv:value>pt</sv:value>
+        </sv:property>
+        <sv:property sv:name="language" sv:type="String">
+          <sv:value>pt</sv:value>
+        </sv:property>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>frontend:pluginconfig</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>en</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Portuguese</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>frontend:pluginconfig</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>de</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Portuguese</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>frontend:pluginconfig</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>nl</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Portuguese</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>frontend:pluginconfig</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>fr</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Portuguese</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="hippo:translation">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>frontend:pluginconfig</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:language" sv:type="String">
+            <sv:value>it</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:message" sv:type="String">
+            <sv:value>Portuguese</sv:value>
+          </sv:property>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="htmlCleanerService" h:merge="combine">
+      <sv:node sv:name="cleaner.config" h:merge="combine">
+        <sv:node sv:name="hippohtmlcleaner:cleanup" h:merge="combine">
+          <sv:property sv:name="hippohtmlcleaner:allowedSpanClasses" sv:type="String" h:merge="override" sv:multiple="true">
+            <sv:value>nl</sv:value>
+            <sv:value>de</sv:value>
+            <sv:value>fr</sv:value>
+            <sv:value>en</sv:value>
+            <sv:value>es</sv:value>
+            <sv:value/>
+          </sv:property>
+          <sv:property sv:name="hippohtmlcleaner:allowedDivClasses" sv:type="String" h:merge="override" sv:multiple="true">
+            <sv:value>textBox</sv:value>
+            <sv:value/>
+            <sv:value>truste_content</sv:value>
+          </sv:property>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[21]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" sv:multiple="true">
+              <sv:value>style</sv:value>
+              <sv:value>class</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[23]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" sv:multiple="true">
+              <sv:value>style</sv:value>
+              <sv:value>class</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[3]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" h:merge="override" sv:multiple="true">
+              <sv:value>class</sv:value>
+              <sv:value>id</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[5]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" h:merge="override" sv:multiple="true">
+              <sv:value>align</sv:value>
+              <sv:value>class</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[22]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" sv:multiple="true">
+              <sv:value>style</sv:value>
+              <sv:value>class</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[4]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" h:merge="override" sv:multiple="true">
+              <sv:value>class</sv:value>
+              <sv:value>id</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[27]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" sv:multiple="true">
+              <sv:value>style</sv:value>
+              <sv:value>class</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[30]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" h:merge="override" sv:multiple="true">
+              <sv:value>width</sv:value>
+              <sv:value>colspan</sv:value>
+              <sv:value>rowspan</sv:value>
+              <sv:value>valign</sv:value>
+            </sv:property>
+          </sv:node>
+          <sv:node sv:name="hippohtmlcleaner:cleanupElement[29]" h:merge="combine">
+            <sv:property sv:name="hippohtmlcleaner:attributes" sv:type="String" h:merge="override" sv:multiple="true">
+              <sv:value>width</sv:value>
+              <sv:value>colspan</sv:value>
+              <sv:value>rowspan</sv:value>
+              <sv:value>valign</sv:value>
+              <sv:value>style</sv:value>
+              <sv:value>class</sv:value>
+            </sv:property>
+          </sv:node>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>
